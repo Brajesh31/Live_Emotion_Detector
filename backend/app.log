@@ -1,0 +1,691 @@
+2025-04-24 16:44:06,731 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-24 16:44:06,762 - WARNING -  * Debugger is active!
+2025-04-24 16:44:06,783 - INFO -  * Debugger PIN: 711-820-657
+2025-04-24 16:44:06,822 - INFO - 127.0.0.1 - - [24/Apr/2025 16:44:06] "GET /socket.io/?EIO=4&transport=polling&t=9lo2mwgr HTTP/1.1" 200 -
+2025-04-24 16:44:06,841 - INFO - 127.0.0.1 - - [24/Apr/2025 16:44:06] "POST /socket.io/?EIO=4&transport=polling&t=9m0z2n39&sid=9PTRyN0bLN7RLnaMAAAA HTTP/1.1" 200 -
+2025-04-24 16:44:06,848 - INFO - 127.0.0.1 - - [24/Apr/2025 16:44:06] "GET /socket.io/?EIO=4&transport=polling&t=9m0z8dc7&sid=9PTRyN0bLN7RLnaMAAAA HTTP/1.1" 200 -
+2025-04-24 16:44:22,187 - INFO - 127.0.0.1 - - [24/Apr/2025 16:44:22] "GET /socket.io/?EIO=4&transport=websocket&sid=9PTRyN0bLN7RLnaMAAAA HTTP/1.1" 200 -
+2025-04-24 16:44:23,167 - INFO - 127.0.0.1 - - [24/Apr/2025 16:44:23] "GET /socket.io/?EIO=4&transport=polling&t=9mdkn6p9 HTTP/1.1" 200 -
+2025-04-24 16:44:23,247 - INFO - 127.0.0.1 - - [24/Apr/2025 16:44:23] "POST /socket.io/?EIO=4&transport=polling&t=9mdmr1f0&sid=6xvvi-bjH45tGwEYAAAC HTTP/1.1" 200 -
+2025-04-24 16:44:23,253 - INFO - 127.0.0.1 - - [24/Apr/2025 16:44:23] "GET /socket.io/?EIO=4&transport=polling&t=9mdmtgej&sid=6xvvi-bjH45tGwEYAAAC HTTP/1.1" 200 -
+2025-04-24 16:44:23,284 - INFO - 127.0.0.1 - - [24/Apr/2025 16:44:23] "GET /socket.io/?EIO=4&transport=polling&t=9mdo0dz3&sid=6xvvi-bjH45tGwEYAAAC HTTP/1.1" 200 -
+2025-04-24 16:44:23,369 - INFO - 127.0.0.1 - - [24/Apr/2025 16:44:23] "GET /socket.io/?EIO=4&transport=polling&t=9mdq8gn9&sid=6xvvi-bjH45tGwEYAAAC HTTP/1.1" 200 -
+2025-04-24 16:44:35,154 - INFO - Stopped Receiving Audio
+2025-04-24 16:44:35,194 - INFO - Received audio chunk
+2025-04-24 16:44:50,104 - INFO - Predicted Emotion: Surprised (Confidence: 1.00)
+2025-04-24 16:49:08,481 - INFO - 127.0.0.1 - - [24/Apr/2025 16:49:08] "GET /socket.io/?EIO=4&transport=websocket&sid=6xvvi-bjH45tGwEYAAAC HTTP/1.1" 200 -
+2025-04-24 16:49:09,035 - INFO - 127.0.0.1 - - [24/Apr/2025 16:49:09] "GET /socket.io/?EIO=4&transport=polling&t=9si4z964 HTTP/1.1" 200 -
+2025-04-24 16:49:09,091 - INFO - 127.0.0.1 - - [24/Apr/2025 16:49:09] "POST /socket.io/?EIO=4&transport=polling&t=9si6sse3&sid=n2oQPXUUIYli84lqAAAE HTTP/1.1" 200 -
+2025-04-24 16:49:09,116 - INFO - 127.0.0.1 - - [24/Apr/2025 16:49:09] "GET /socket.io/?EIO=4&transport=polling&t=9si6u0j1&sid=n2oQPXUUIYli84lqAAAE HTTP/1.1" 200 -
+2025-04-24 16:49:09,144 - INFO - 127.0.0.1 - - [24/Apr/2025 16:49:09] "GET /socket.io/?EIO=4&transport=polling&t=9si8bc2u&sid=n2oQPXUUIYli84lqAAAE HTTP/1.1" 200 -
+2025-04-24 16:49:27,349 - INFO - 127.0.0.1 - - [24/Apr/2025 16:49:27] "GET /socket.io/?EIO=4&transport=websocket&sid=n2oQPXUUIYli84lqAAAE HTTP/1.1" 200 -
+2025-04-24 16:49:27,768 - INFO - 127.0.0.1 - - [24/Apr/2025 16:49:27] "GET /socket.io/?EIO=4&transport=polling&t=9swllp6e HTTP/1.1" 200 -
+2025-04-24 16:49:27,829 - INFO - 127.0.0.1 - - [24/Apr/2025 16:49:27] "POST /socket.io/?EIO=4&transport=polling&t=9swncfb5&sid=0SOZL7i2_dUtqVHcAAAG HTTP/1.1" 200 -
+2025-04-24 16:49:27,836 - INFO - 127.0.0.1 - - [24/Apr/2025 16:49:27] "GET /socket.io/?EIO=4&transport=polling&t=9swnet17&sid=0SOZL7i2_dUtqVHcAAAG HTTP/1.1" 200 -
+2025-04-24 16:49:27,875 - INFO - 127.0.0.1 - - [24/Apr/2025 16:49:27] "GET /socket.io/?EIO=4&transport=polling&t=9swonx7f&sid=0SOZL7i2_dUtqVHcAAAG HTTP/1.1" 200 -
+2025-04-24 16:49:42,733 - INFO - 127.0.0.1 - - [24/Apr/2025 16:49:42] "GET /socket.io/?EIO=4&transport=websocket&sid=0SOZL7i2_dUtqVHcAAAG HTTP/1.1" 200 -
+2025-04-24 16:49:42,786 - INFO - 127.0.0.1 - - [24/Apr/2025 16:49:42] "GET /socket.io/?EIO=4&transport=polling&t=9t872ft1 HTTP/1.1" 200 -
+2025-04-24 16:49:42,862 - INFO - 127.0.0.1 - - [24/Apr/2025 16:49:42] "POST /socket.io/?EIO=4&transport=polling&t=9t893zq7&sid=Oh3xrz9WTnzJXjOHAAAI HTTP/1.1" 200 -
+2025-04-24 16:49:42,882 - INFO - 127.0.0.1 - - [24/Apr/2025 16:49:42] "GET /socket.io/?EIO=4&transport=polling&t=9t89b6km&sid=Oh3xrz9WTnzJXjOHAAAI HTTP/1.1" 200 -
+2025-04-24 16:51:20,794 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-24 16:51:21,013 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 16:51:21,013 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 16:51:21,013 - INFO -  * Restarting with stat
+2025-04-24 16:51:38,490 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-24 16:51:38,548 - WARNING -  * Debugger is active!
+2025-04-24 16:51:38,572 - INFO -  * Debugger PIN: 711-820-657
+2025-04-24 16:51:38,683 - INFO - 127.0.0.1 - - [24/Apr/2025 16:51:38] "GET /socket.io/?EIO=4&transport=polling&t=9vb55m8m HTTP/1.1" 200 -
+2025-04-24 16:51:38,693 - INFO - 127.0.0.1 - - [24/Apr/2025 16:51:38] "GET /socket.io/?EIO=4&transport=polling&t=9vjgnrqo HTTP/1.1" 200 -
+2025-04-24 16:51:38,744 - INFO - 127.0.0.1 - - [24/Apr/2025 16:51:38] "POST /socket.io/?EIO=4&transport=polling&t=9vpnxtv0&sid=dyn3p_X5glXODOiUAAAB HTTP/1.1" 200 -
+2025-04-24 16:51:38,800 - INFO - 127.0.0.1 - - [24/Apr/2025 16:51:38] "GET /socket.io/?EIO=4&transport=polling&t=9vpoufzr&sid=dyn3p_X5glXODOiUAAAB HTTP/1.1" 200 -
+2025-04-24 16:52:02,972 - INFO -  * Detected change in 'C:\\emotion-detector\\backend\\app.py', reloading
+2025-04-24 16:52:06,010 - INFO -  * Restarting with stat
+2025-04-24 16:58:34,414 - INFO -  * Restarting with stat
+2025-04-24 17:42:06,584 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-24 17:42:06,758 - WARNING -  * Debugger is active!
+2025-04-24 17:42:06,806 - INFO -  * Debugger PIN: 711-820-657
+2025-04-24 17:42:06,841 - INFO - 127.0.0.1 - - [24/Apr/2025 17:42:06] "GET /socket.io/?EIO=4&transport=polling&t=bnfz102k HTTP/1.1" 200 -
+2025-04-24 17:42:06,843 - INFO - 127.0.0.1 - - [24/Apr/2025 17:42:06] "GET /socket.io/?EIO=4&transport=polling&t=bnnkgphg HTTP/1.1" 200 -
+2025-04-24 17:42:06,845 - INFO - 127.0.0.1 - - [24/Apr/2025 17:42:06] "GET /socket.io/?EIO=4&transport=polling&t=bnscvxj7 HTTP/1.1" 200 -
+2025-04-24 17:42:06,862 - INFO - 127.0.0.1 - - [24/Apr/2025 17:42:06] "GET /socket.io/?EIO=4&transport=polling&t=bo8inibj HTTP/1.1" 200 -
+2025-04-24 17:42:06,876 - INFO - 127.0.0.1 - - [24/Apr/2025 17:42:06] "GET /socket.io/?EIO=4&transport=polling&t=bojkxe8b HTTP/1.1" 200 -
+2025-04-24 17:42:06,903 - INFO - 127.0.0.1 - - [24/Apr/2025 17:42:06] "POST /socket.io/?EIO=4&transport=polling&t=bom7b7t5&sid=CEnGqxUMhK693klIAAAE HTTP/1.1" 200 -
+2025-04-24 17:42:06,917 - INFO - 127.0.0.1 - - [24/Apr/2025 17:42:06] "GET /socket.io/?EIO=4&transport=polling&t=bom7hrlg&sid=CEnGqxUMhK693klIAAAE HTTP/1.1" 200 -
+2025-04-24 17:42:06,942 - INFO - 127.0.0.1 - - [24/Apr/2025 17:42:06] "GET /socket.io/?EIO=4&transport=polling&t=bom8gwj8&sid=CEnGqxUMhK693klIAAAE HTTP/1.1" 200 -
+2025-04-24 17:42:09,528 - INFO - Stopped Receiving Audio
+2025-04-24 17:42:09,557 - INFO - Received audio chunk
+2025-04-24 17:42:33,929 - INFO - Predicted Emotion: Surprised (Confidence: 0.77)
+2025-04-24 17:44:27,762 - INFO - 127.0.0.1 - - [24/Apr/2025 17:44:27] "GET /socket.io/?EIO=4&transport=websocket&sid=CEnGqxUMhK693klIAAAE HTTP/1.1" 200 -
+2025-04-24 17:44:28,826 - INFO - 127.0.0.1 - - [24/Apr/2025 17:44:28] "GET /socket.io/?EIO=4&transport=polling&t=brnpun7x HTTP/1.1" 200 -
+2025-04-24 17:44:28,881 - INFO - 127.0.0.1 - - [24/Apr/2025 17:44:28] "POST /socket.io/?EIO=4&transport=polling&t=brnrhado&sid=_uR77zZvzKTBfIOmAAAG HTTP/1.1" 200 -
+2025-04-24 17:44:28,894 - INFO - 127.0.0.1 - - [24/Apr/2025 17:44:28] "GET /socket.io/?EIO=4&transport=polling&t=brnrjqdc&sid=_uR77zZvzKTBfIOmAAAG HTTP/1.1" 200 -
+2025-04-24 17:44:28,967 - INFO - 127.0.0.1 - - [24/Apr/2025 17:44:28] "GET /socket.io/?EIO=4&transport=polling&t=brnscpqh&sid=_uR77zZvzKTBfIOmAAAG HTTP/1.1" 200 -
+2025-04-24 17:44:33,431 - INFO - Stopped Receiving Audio
+2025-04-24 17:44:33,461 - INFO - Received audio chunk
+2025-04-24 17:44:33,729 - INFO - Predicted Emotion: Sad (Confidence: 1.00)
+2025-04-24 17:44:42,883 - INFO - 127.0.0.1 - - [24/Apr/2025 17:44:42] "GET /socket.io/?EIO=4&transport=websocket&sid=_uR77zZvzKTBfIOmAAAG HTTP/1.1" 200 -
+2025-04-24 17:44:46,757 - INFO - 127.0.0.1 - - [24/Apr/2025 17:44:46] "GET /socket.io/?EIO=4&transport=polling&t=bs18320c HTTP/1.1" 200 -
+2025-04-24 17:44:47,567 - INFO - 127.0.0.1 - - [24/Apr/2025 17:44:47] "POST /socket.io/?EIO=4&transport=polling&t=bs2248x5&sid=1fzVeO3f9Pv-DpgyAAAI HTTP/1.1" 200 -
+2025-04-24 17:44:47,785 - INFO - 127.0.0.1 - - [24/Apr/2025 17:44:47] "GET /socket.io/?EIO=4&transport=polling&t=bs226jvb&sid=1fzVeO3f9Pv-DpgyAAAI HTTP/1.1" 200 -
+2025-04-24 18:04:41,324 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-24 18:04:41,500 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 18:04:41,501 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 18:04:41,501 - INFO -  * Restarting with stat
+2025-04-24 18:05:25,634 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-24 18:05:25,660 - WARNING -  * Debugger is active!
+2025-04-24 18:05:25,682 - INFO -  * Debugger PIN: 711-820-657
+2025-04-24 18:05:25,718 - INFO - 127.0.0.1 - - [24/Apr/2025 18:05:25] "GET /socket.io/?EIO=4&transport=polling&t=cho2t6sz HTTP/1.1" 200 -
+2025-04-24 18:05:25,718 - INFO - 127.0.0.1 - - [24/Apr/2025 18:05:25] "GET /socket.io/?EIO=4&transport=polling&t=ci28dvpj HTTP/1.1" 200 -
+2025-04-24 18:05:25,723 - INFO - 127.0.0.1 - - [24/Apr/2025 18:05:25] "GET /socket.io/?EIO=4&transport=polling&t=ciismpga HTTP/1.1" 200 -
+2025-04-24 18:05:25,743 - INFO - 127.0.0.1 - - [24/Apr/2025 18:05:25] "POST /socket.io/?EIO=4&transport=polling&t=cilk40xu&sid=7pWY8VBxqcsTGVnAAAAC HTTP/1.1" 200 -
+2025-04-24 18:05:25,749 - INFO - 127.0.0.1 - - [24/Apr/2025 18:05:25] "GET /socket.io/?EIO=4&transport=polling&t=cilk8cli&sid=7pWY8VBxqcsTGVnAAAAC HTTP/1.1" 200 -
+2025-04-24 18:05:25,762 - INFO - Stopped Receiving Audio
+2025-04-24 18:05:25,771 - INFO - Received audio chunk
+2025-04-24 18:05:42,650 - INFO - Predicted Emotion: Surprised (Confidence: 1.00)
+2025-04-24 18:07:08,577 - INFO - Stopped Receiving Audio
+2025-04-24 18:07:08,648 - INFO - Received audio chunk
+2025-04-24 18:07:08,986 - INFO - Predicted Emotion: Surprised (Confidence: 0.99)
+2025-04-24 18:07:21,057 - INFO - Stopped Receiving Audio
+2025-04-24 18:07:21,105 - INFO - Received audio chunk
+2025-04-24 18:07:21,467 - INFO - Predicted Emotion: Disgust (Confidence: 1.00)
+2025-04-24 18:07:27,902 - INFO - Stopped Receiving Audio
+2025-04-24 18:07:27,936 - INFO - Received audio chunk
+2025-04-24 18:07:28,263 - INFO - Predicted Emotion: Disgust (Confidence: 1.00)
+2025-04-24 18:07:34,279 - INFO - Stopped Receiving Audio
+2025-04-24 18:07:34,329 - INFO - Received audio chunk
+2025-04-24 18:07:34,773 - INFO - Predicted Emotion: Disgust (Confidence: 0.87)
+2025-04-24 18:08:08,845 - INFO - 127.0.0.1 - - [24/Apr/2025 18:08:08] "GET /socket.io/?EIO=4&transport=websocket&sid=7pWY8VBxqcsTGVnAAAAC HTTP/1.1" 200 -
+2025-04-24 18:08:10,744 - INFO - 127.0.0.1 - - [24/Apr/2025 18:08:10] "GET /socket.io/?EIO=4&transport=polling&t=cm4uru59 HTTP/1.1" 200 -
+2025-04-24 18:08:10,803 - INFO - 127.0.0.1 - - [24/Apr/2025 18:08:10] "POST /socket.io/?EIO=4&transport=polling&t=cm4wzfzf&sid=RyN-EnGuWSyIgLm0AAAE HTTP/1.1" 200 -
+2025-04-24 18:08:10,809 - INFO - 127.0.0.1 - - [24/Apr/2025 18:08:10] "GET /socket.io/?EIO=4&transport=polling&t=cm4x27v7&sid=RyN-EnGuWSyIgLm0AAAE HTTP/1.1" 200 -
+2025-04-24 18:08:10,838 - INFO - 127.0.0.1 - - [24/Apr/2025 18:08:10] "GET /socket.io/?EIO=4&transport=polling&t=cm4y3ulk&sid=RyN-EnGuWSyIgLm0AAAE HTTP/1.1" 200 -
+2025-04-24 18:08:19,609 - INFO - Stopped Receiving Audio
+2025-04-24 18:08:19,743 - INFO - Received audio chunk
+2025-04-24 18:08:20,301 - INFO - Predicted Emotion: Surprised (Confidence: 0.88)
+2025-04-24 18:09:58,247 - INFO - 127.0.0.1 - - [24/Apr/2025 18:09:58] "GET /socket.io/?EIO=4&transport=websocket&sid=RyN-EnGuWSyIgLm0AAAE HTTP/1.1" 200 -
+2025-04-24 18:09:59,336 - INFO - 127.0.0.1 - - [24/Apr/2025 18:09:59] "GET /socket.io/?EIO=4&transport=polling&t=cognylpo HTTP/1.1" 200 -
+2025-04-24 18:09:59,408 - INFO - 127.0.0.1 - - [24/Apr/2025 18:09:59] "POST /socket.io/?EIO=4&transport=polling&t=cogq0mg7&sid=QTT7idVMiHb6vr_9AAAG HTTP/1.1" 200 -
+2025-04-24 18:09:59,418 - INFO - 127.0.0.1 - - [24/Apr/2025 18:09:59] "GET /socket.io/?EIO=4&transport=polling&t=cogq229x&sid=QTT7idVMiHb6vr_9AAAG HTTP/1.1" 200 -
+2025-04-24 18:09:59,455 - INFO - 127.0.0.1 - - [24/Apr/2025 18:09:59] "GET /socket.io/?EIO=4&transport=polling&t=cogr91wx&sid=QTT7idVMiHb6vr_9AAAG HTTP/1.1" 200 -
+2025-04-24 18:09:59,489 - INFO - 127.0.0.1 - - [24/Apr/2025 18:09:59] "GET /socket.io/?EIO=4&transport=polling&t=cogs21up&sid=QTT7idVMiHb6vr_9AAAG HTTP/1.1" 200 -
+2025-04-24 18:10:05,655 - INFO - Stopped Receiving Audio
+2025-04-24 18:10:05,692 - INFO - Received audio chunk
+2025-04-24 18:10:05,984 - INFO - Predicted Emotion: Surprised (Confidence: 0.43)
+2025-04-24 18:12:50,050 - INFO - 127.0.0.1 - - [24/Apr/2025 18:12:50] "GET /socket.io/?EIO=4&transport=websocket&sid=QTT7idVMiHb6vr_9AAAG HTTP/1.1" 200 -
+2025-04-24 18:12:50,351 - INFO - 127.0.0.1 - - [24/Apr/2025 18:12:50] "GET /socket.io/?EIO=4&transport=polling&t=cs4ljvi5 HTTP/1.1" 200 -
+2025-04-24 18:12:50,630 - INFO - 127.0.0.1 - - [24/Apr/2025 18:12:50] "POST /socket.io/?EIO=4&transport=polling&t=cs4t6y8r&sid=S-9Kqc9GsC5TDO30AAAI HTTP/1.1" 200 -
+2025-04-24 18:12:50,733 - INFO - 127.0.0.1 - - [24/Apr/2025 18:12:50] "GET /socket.io/?EIO=4&transport=polling&t=cs4u3rrv&sid=S-9Kqc9GsC5TDO30AAAI HTTP/1.1" 200 -
+2025-04-24 18:13:01,151 - INFO - Stopped Receiving Audio
+2025-04-24 18:13:01,266 - INFO - Received audio chunk
+2025-04-24 18:13:01,974 - INFO - Predicted Emotion: Disgust (Confidence: 0.99)
+2025-04-24 18:17:23,276 - INFO - 127.0.0.1 - - [24/Apr/2025 18:17:23] "GET /socket.io/?EIO=4&transport=websocket&sid=S-9Kqc9GsC5TDO30AAAI HTTP/1.1" 200 -
+2025-04-24 18:17:24,369 - INFO - 127.0.0.1 - - [24/Apr/2025 18:17:24] "GET /socket.io/?EIO=4&transport=polling&t=cy01vo4c HTTP/1.1" 200 -
+2025-04-24 18:17:24,418 - INFO - 127.0.0.1 - - [24/Apr/2025 18:17:24] "POST /socket.io/?EIO=4&transport=polling&t=cy03dgkk&sid=u2_NHpeAwcHvg3JxAAAK HTTP/1.1" 200 -
+2025-04-24 18:17:24,430 - INFO - 127.0.0.1 - - [24/Apr/2025 18:17:24] "GET /socket.io/?EIO=4&transport=polling&t=cy03gnsh&sid=u2_NHpeAwcHvg3JxAAAK HTTP/1.1" 200 -
+2025-04-24 18:17:24,447 - INFO - 127.0.0.1 - - [24/Apr/2025 18:17:24] "GET /socket.io/?EIO=4&transport=polling&t=cy04aeq6&sid=u2_NHpeAwcHvg3JxAAAK HTTP/1.1" 200 -
+2025-04-24 18:17:24,470 - INFO - 127.0.0.1 - - [24/Apr/2025 18:17:24] "GET /socket.io/?EIO=4&transport=polling&t=cy04olm3&sid=u2_NHpeAwcHvg3JxAAAK HTTP/1.1" 200 -
+2025-04-24 18:17:33,018 - INFO - Stopped Receiving Audio
+2025-04-24 18:17:33,041 - INFO - Received audio chunk
+2025-04-24 18:17:34,011 - INFO - Predicted Emotion: Calm (Confidence: 0.80)
+2025-04-24 18:17:57,207 - INFO - 127.0.0.1 - - [24/Apr/2025 18:17:57] "GET /socket.io/?EIO=4&transport=websocket&sid=u2_NHpeAwcHvg3JxAAAK HTTP/1.1" 200 -
+2025-04-24 18:17:57,868 - INFO - 127.0.0.1 - - [24/Apr/2025 18:17:57] "GET /socket.io/?EIO=4&transport=polling&t=cypwimrk HTTP/1.1" 200 -
+2025-04-24 18:17:57,943 - INFO - 127.0.0.1 - - [24/Apr/2025 18:17:57] "POST /socket.io/?EIO=4&transport=polling&t=cypymkbt&sid=H37-wQrpsZ_TPGQFAAAM HTTP/1.1" 200 -
+2025-04-24 18:17:57,956 - INFO - 127.0.0.1 - - [24/Apr/2025 18:17:57] "GET /socket.io/?EIO=4&transport=polling&t=cypyorqf&sid=H37-wQrpsZ_TPGQFAAAM HTTP/1.1" 200 -
+2025-04-24 18:17:57,990 - INFO - 127.0.0.1 - - [24/Apr/2025 18:17:57] "GET /socket.io/?EIO=4&transport=polling&t=cypzyv4e&sid=H37-wQrpsZ_TPGQFAAAM HTTP/1.1" 200 -
+2025-04-24 18:17:58,017 - INFO - 127.0.0.1 - - [24/Apr/2025 18:17:58] "GET /socket.io/?EIO=4&transport=polling&t=cyq0dt59&sid=H37-wQrpsZ_TPGQFAAAM HTTP/1.1" 200 -
+2025-04-24 18:18:01,930 - INFO - Stopped Receiving Audio
+2025-04-24 18:18:01,967 - INFO - Received audio chunk
+2025-04-24 18:18:02,346 - INFO - Predicted Emotion: Disgust (Confidence: 0.57)
+2025-04-24 18:18:26,395 - INFO - 127.0.0.1 - - [24/Apr/2025 18:18:26] "GET /socket.io/?EIO=4&transport=websocket&sid=H37-wQrpsZ_TPGQFAAAM HTTP/1.1" 200 -
+2025-04-24 18:18:26,604 - INFO - 127.0.0.1 - - [24/Apr/2025 18:18:26] "GET /socket.io/?EIO=4&transport=polling&t=czc263ap HTTP/1.1" 200 -
+2025-04-24 18:18:26,845 - INFO - 127.0.0.1 - - [24/Apr/2025 18:18:26] "POST /socket.io/?EIO=4&transport=polling&t=czc8zrg7&sid=yJVKGEj9fqkWZR1fAAAO HTTP/1.1" 200 -
+2025-04-24 18:18:26,904 - INFO - 127.0.0.1 - - [24/Apr/2025 18:18:26] "GET /socket.io/?EIO=4&transport=polling&t=czc9mabe&sid=yJVKGEj9fqkWZR1fAAAO HTTP/1.1" 200 -
+2025-04-24 18:21:22,992 - INFO - Stopped Receiving Audio
+2025-04-24 18:21:23,032 - INFO - Received audio chunk
+2025-04-24 18:21:23,343 - INFO - Predicted Emotion: Disgust (Confidence: 1.00)
+2025-04-24 18:23:10,675 - INFO - 127.0.0.1 - - [24/Apr/2025 18:23:10] "GET /socket.io/?EIO=4&transport=websocket&sid=yJVKGEj9fqkWZR1fAAAO HTTP/1.1" 200 -
+2025-04-24 18:23:11,411 - INFO - 127.0.0.1 - - [24/Apr/2025 18:23:11] "GET /socket.io/?EIO=4&transport=polling&t=d5ftv7ku HTTP/1.1" 200 -
+2025-04-24 18:23:11,505 - INFO - 127.0.0.1 - - [24/Apr/2025 18:23:11] "POST /socket.io/?EIO=4&transport=polling&t=d5fwnrjm&sid=prEx0VcCH_9akn39AAAQ HTTP/1.1" 200 -
+2025-04-24 18:23:11,521 - INFO - 127.0.0.1 - - [24/Apr/2025 18:23:11] "GET /socket.io/?EIO=4&transport=polling&t=d5fwqcsd&sid=prEx0VcCH_9akn39AAAQ HTTP/1.1" 200 -
+2025-04-24 18:23:11,610 - INFO - 127.0.0.1 - - [24/Apr/2025 18:23:11] "GET /socket.io/?EIO=4&transport=polling&t=d5fz6ck3&sid=prEx0VcCH_9akn39AAAQ HTTP/1.1" 200 -
+2025-04-24 18:23:16,604 - INFO - Stopped Receiving Audio
+2025-04-24 18:23:16,628 - INFO - Received audio chunk
+2025-04-24 18:23:16,895 - INFO - Predicted Emotion: Calm (Confidence: 0.96)
+2025-04-24 18:23:54,274 - INFO - 127.0.0.1 - - [24/Apr/2025 18:23:54] "GET /socket.io/?EIO=4&transport=websocket&sid=prEx0VcCH_9akn39AAAQ HTTP/1.1" 200 -
+2025-04-24 18:23:55,085 - INFO - 127.0.0.1 - - [24/Apr/2025 18:23:55] "GET /socket.io/?EIO=4&transport=polling&t=d6dj145m HTTP/1.1" 200 -
+2025-04-24 18:23:55,204 - INFO - 127.0.0.1 - - [24/Apr/2025 18:23:55] "POST /socket.io/?EIO=4&transport=polling&t=d6dmiko2&sid=fSX8OUctdYws13deAAAS HTTP/1.1" 200 -
+2025-04-24 18:23:55,213 - INFO - 127.0.0.1 - - [24/Apr/2025 18:23:55] "GET /socket.io/?EIO=4&transport=polling&t=d6dmntjj&sid=fSX8OUctdYws13deAAAS HTTP/1.1" 200 -
+2025-04-24 18:23:55,257 - INFO - 127.0.0.1 - - [24/Apr/2025 18:23:55] "GET /socket.io/?EIO=4&transport=polling&t=d6dnx8p2&sid=fSX8OUctdYws13deAAAS HTTP/1.1" 200 -
+2025-04-24 18:23:59,127 - INFO - Stopped Receiving Audio
+2025-04-24 18:23:59,149 - INFO - Received audio chunk
+2025-04-24 18:23:59,410 - INFO - Predicted Emotion: Disgust (Confidence: 1.00)
+2025-04-24 18:27:21,760 - INFO - 127.0.0.1 - - [24/Apr/2025 18:27:21] "GET /socket.io/?EIO=4&transport=polling&t=dat01dxy HTTP/1.1" 200 -
+2025-04-24 18:27:21,778 - INFO - 127.0.0.1 - - [24/Apr/2025 18:27:21] "POST /socket.io/?EIO=4&transport=polling&t=dat0mtih&sid=JNcBrb6N3qvsWk-fAAAU HTTP/1.1" 200 -
+2025-04-24 18:27:21,791 - INFO - 127.0.0.1 - - [24/Apr/2025 18:27:21] "GET /socket.io/?EIO=4&transport=polling&t=dat0pnjz&sid=JNcBrb6N3qvsWk-fAAAU HTTP/1.1" 200 -
+2025-04-24 18:27:23,970 - INFO - 127.0.0.1 - - [24/Apr/2025 18:27:23] "GET /socket.io/?EIO=4&transport=websocket&sid=fSX8OUctdYws13deAAAS HTTP/1.1" 200 -
+2025-04-24 18:27:23,977 - INFO - 127.0.0.1 - - [24/Apr/2025 18:27:23] "GET /socket.io/?EIO=4&transport=websocket&sid=JNcBrb6N3qvsWk-fAAAU HTTP/1.1" 200 -
+2025-04-24 18:27:24,706 - INFO - 127.0.0.1 - - [24/Apr/2025 18:27:24] "GET /socket.io/?EIO=4&transport=polling&t=dava155f HTTP/1.1" 200 -
+2025-04-24 18:27:24,811 - INFO - 127.0.0.1 - - [24/Apr/2025 18:27:24] "POST /socket.io/?EIO=4&transport=polling&t=davcer5v&sid=mDteRFq9mdxzg43KAAAW HTTP/1.1" 200 -
+2025-04-24 18:27:25,057 - INFO - 127.0.0.1 - - [24/Apr/2025 18:27:25] "GET /socket.io/?EIO=4&transport=polling&t=davcjzfa&sid=mDteRFq9mdxzg43KAAAW HTTP/1.1" 200 -
+2025-04-24 18:27:28,287 - INFO - Stopped Receiving Audio
+2025-04-24 18:27:28,312 - INFO - Received audio chunk
+2025-04-24 18:27:28,673 - INFO - Predicted Emotion: Calm (Confidence: 0.99)
+2025-04-24 18:27:41,514 - INFO - 127.0.0.1 - - [24/Apr/2025 18:27:41] "GET /socket.io/?EIO=4&transport=polling&t=db88wf4b HTTP/1.1" 200 -
+2025-04-24 18:27:41,528 - INFO - 127.0.0.1 - - [24/Apr/2025 18:27:41] "POST /socket.io/?EIO=4&transport=polling&t=db89b5xw&sid=ZrjqnXpp-FGmVXMHAAAY HTTP/1.1" 200 -
+2025-04-24 18:27:41,543 - INFO - 127.0.0.1 - - [24/Apr/2025 18:27:41] "GET /socket.io/?EIO=4&transport=polling&t=db89duu9&sid=ZrjqnXpp-FGmVXMHAAAY HTTP/1.1" 200 -
+2025-04-24 18:28:46,330 - INFO - 127.0.0.1 - - [24/Apr/2025 18:28:46] "GET /socket.io/?EIO=4&transport=websocket&sid=mDteRFq9mdxzg43KAAAW HTTP/1.1" 200 -
+2025-04-24 18:28:46,348 - INFO - 127.0.0.1 - - [24/Apr/2025 18:28:46] "GET /socket.io/?EIO=4&transport=websocket&sid=ZrjqnXpp-FGmVXMHAAAY HTTP/1.1" 200 -
+2025-04-24 18:28:47,135 - INFO - 127.0.0.1 - - [24/Apr/2025 18:28:47] "GET /socket.io/?EIO=4&transport=polling&t=dcmvmina HTTP/1.1" 200 -
+2025-04-24 18:28:47,250 - INFO - 127.0.0.1 - - [24/Apr/2025 18:28:47] "POST /socket.io/?EIO=4&transport=polling&t=dcmyqk02&sid=nVg4C5xe-wKQQkZAAAAa HTTP/1.1" 200 -
+2025-04-24 18:28:47,258 - INFO - 127.0.0.1 - - [24/Apr/2025 18:28:47] "GET /socket.io/?EIO=4&transport=polling&t=dcmytnfm&sid=nVg4C5xe-wKQQkZAAAAa HTTP/1.1" 200 -
+2025-04-24 18:28:47,329 - INFO - 127.0.0.1 - - [24/Apr/2025 18:28:47] "GET /socket.io/?EIO=4&transport=polling&t=dcn0trth&sid=nVg4C5xe-wKQQkZAAAAa HTTP/1.1" 200 -
+2025-04-24 18:28:51,186 - INFO - Stopped Receiving Audio
+2025-04-24 18:28:51,263 - INFO - Received audio chunk
+2025-04-24 18:28:51,610 - INFO - Predicted Emotion: Disgust (Confidence: 1.00)
+2025-04-24 18:29:36,273 - INFO - 127.0.0.1 - - [24/Apr/2025 18:29:36] "GET /socket.io/?EIO=4&transport=polling&t=ddosmm9o HTTP/1.1" 200 -
+2025-04-24 18:29:36,319 - INFO - 127.0.0.1 - - [24/Apr/2025 18:29:36] "POST /socket.io/?EIO=4&transport=polling&t=ddot8n5y&sid=TZ4fATuQ0KrOc8g_AAAc HTTP/1.1" 200 -
+2025-04-24 18:29:36,360 - INFO - 127.0.0.1 - - [24/Apr/2025 18:29:36] "GET /socket.io/?EIO=4&transport=polling&t=ddotct5c&sid=TZ4fATuQ0KrOc8g_AAAc HTTP/1.1" 200 -
+2025-04-24 18:29:38,079 - INFO - 127.0.0.1 - - [24/Apr/2025 18:29:38] "GET /socket.io/?EIO=4&transport=websocket&sid=nVg4C5xe-wKQQkZAAAAa HTTP/1.1" 200 -
+2025-04-24 18:29:38,091 - INFO - 127.0.0.1 - - [24/Apr/2025 18:29:38] "GET /socket.io/?EIO=4&transport=websocket&sid=TZ4fATuQ0KrOc8g_AAAc HTTP/1.1" 200 -
+2025-04-24 18:29:38,762 - INFO - 127.0.0.1 - - [24/Apr/2025 18:29:38] "GET /socket.io/?EIO=4&transport=polling&t=ddqpn5sg HTTP/1.1" 200 -
+2025-04-24 18:29:38,841 - INFO - 127.0.0.1 - - [24/Apr/2025 18:29:38] "POST /socket.io/?EIO=4&transport=polling&t=ddqs2ws7&sid=2gQ_mAm47Ye8-c5XAAAe HTTP/1.1" 200 -
+2025-04-24 18:29:38,852 - INFO - 127.0.0.1 - - [24/Apr/2025 18:29:38] "GET /socket.io/?EIO=4&transport=polling&t=ddqs4axs&sid=2gQ_mAm47Ye8-c5XAAAe HTTP/1.1" 200 -
+2025-04-24 18:29:38,900 - INFO - 127.0.0.1 - - [24/Apr/2025 18:29:38] "GET /socket.io/?EIO=4&transport=polling&t=ddqtlpg3&sid=2gQ_mAm47Ye8-c5XAAAe HTTP/1.1" 200 -
+2025-04-24 18:29:44,153 - INFO - Stopped Receiving Audio
+2025-04-24 18:29:44,188 - INFO - Received audio chunk
+2025-04-24 18:29:44,506 - INFO - Predicted Emotion: Calm (Confidence: 0.83)
+2025-04-24 18:29:53,901 - INFO - 127.0.0.1 - - [24/Apr/2025 18:29:53] "GET /socket.io/?EIO=4&transport=websocket&sid=2gQ_mAm47Ye8-c5XAAAe HTTP/1.1" 200 -
+2025-04-24 18:29:54,084 - INFO - 127.0.0.1 - - [24/Apr/2025 18:29:54] "GET /socket.io/?EIO=4&transport=polling&t=de2iyouo HTTP/1.1" 200 -
+2025-04-24 18:29:54,253 - INFO - 127.0.0.1 - - [24/Apr/2025 18:29:54] "POST /socket.io/?EIO=4&transport=polling&t=de2o2ww9&sid=FlDTPVZX1Ayqpg83AAAg HTTP/1.1" 200 -
+2025-04-24 18:29:54,283 - INFO - 127.0.0.1 - - [24/Apr/2025 18:29:54] "GET /socket.io/?EIO=4&transport=polling&t=de2ohpul&sid=FlDTPVZX1Ayqpg83AAAg HTTP/1.1" 200 -
+2025-04-24 18:29:54,330 - INFO - 127.0.0.1 - - [24/Apr/2025 18:29:54] "GET /socket.io/?EIO=4&transport=polling&t=de2pnwpn&sid=FlDTPVZX1Ayqpg83AAAg HTTP/1.1" 200 -
+2025-04-24 18:29:59,073 - INFO - 127.0.0.1 - - [24/Apr/2025 18:29:59] "GET /socket.io/?EIO=4&transport=polling&t=de6e1jrg HTTP/1.1" 200 -
+2025-04-24 18:29:59,089 - INFO - 127.0.0.1 - - [24/Apr/2025 18:29:59] "POST /socket.io/?EIO=4&transport=polling&t=de6ecxeu&sid=1QyTcaz8NGS5jwIeAAAi HTTP/1.1" 200 -
+2025-04-24 18:29:59,107 - INFO - 127.0.0.1 - - [24/Apr/2025 18:29:59] "GET /socket.io/?EIO=4&transport=polling&t=de6eeoox&sid=1QyTcaz8NGS5jwIeAAAi HTTP/1.1" 200 -
+2025-04-24 18:31:14,422 - INFO - 127.0.0.1 - - [24/Apr/2025 18:31:14] "GET /socket.io/?EIO=4&transport=websocket&sid=FlDTPVZX1Ayqpg83AAAg HTTP/1.1" 200 -
+2025-04-24 18:31:14,428 - INFO - 127.0.0.1 - - [24/Apr/2025 18:31:14] "GET /socket.io/?EIO=4&transport=websocket&sid=1QyTcaz8NGS5jwIeAAAi HTTP/1.1" 200 -
+2025-04-24 18:31:15,087 - INFO - 127.0.0.1 - - [24/Apr/2025 18:31:15] "GET /socket.io/?EIO=4&transport=polling&t=dft1li8j HTTP/1.1" 200 -
+2025-04-24 18:31:15,186 - INFO - 127.0.0.1 - - [24/Apr/2025 18:31:15] "POST /socket.io/?EIO=4&transport=polling&t=dft3qscd&sid=HaSqY3iAqYGZB-0jAAAk HTTP/1.1" 200 -
+2025-04-24 18:31:15,199 - INFO - 127.0.0.1 - - [24/Apr/2025 18:31:15] "GET /socket.io/?EIO=4&transport=polling&t=dft3tbws&sid=HaSqY3iAqYGZB-0jAAAk HTTP/1.1" 200 -
+2025-04-24 18:31:15,242 - INFO - 127.0.0.1 - - [24/Apr/2025 18:31:15] "GET /socket.io/?EIO=4&transport=polling&t=dft5kq7q&sid=HaSqY3iAqYGZB-0jAAAk HTTP/1.1" 200 -
+2025-04-24 18:31:20,234 - INFO - Stopped Receiving Audio
+2025-04-24 18:31:20,275 - INFO - Received audio chunk
+2025-04-24 18:31:20,589 - INFO - Predicted Emotion: Disgust (Confidence: 0.81)
+2025-04-24 18:31:30,439 - INFO - 127.0.0.1 - - [24/Apr/2025 18:31:30] "GET /socket.io/?EIO=4&transport=websocket&sid=HaSqY3iAqYGZB-0jAAAk HTTP/1.1" 200 -
+2025-04-24 18:31:31,175 - INFO - 127.0.0.1 - - [24/Apr/2025 18:31:31] "GET /socket.io/?EIO=4&transport=polling&t=dg5g8z2i HTTP/1.1" 200 -
+2025-04-24 18:31:31,278 - INFO - 127.0.0.1 - - [24/Apr/2025 18:31:31] "POST /socket.io/?EIO=4&transport=polling&t=dg5j1vgq&sid=kFPcgJsdgMFFQodoAAAm HTTP/1.1" 200 -
+2025-04-24 18:31:31,298 - INFO - 127.0.0.1 - - [24/Apr/2025 18:31:31] "GET /socket.io/?EIO=4&transport=polling&t=dg5j23z6&sid=kFPcgJsdgMFFQodoAAAm HTTP/1.1" 200 -
+2025-04-24 18:31:31,340 - INFO - 127.0.0.1 - - [24/Apr/2025 18:31:31] "GET /socket.io/?EIO=4&transport=polling&t=dg5kssug&sid=kFPcgJsdgMFFQodoAAAm HTTP/1.1" 200 -
+2025-04-24 18:31:31,367 - INFO - 127.0.0.1 - - [24/Apr/2025 18:31:31] "GET /socket.io/?EIO=4&transport=polling&t=dg5lkihn&sid=kFPcgJsdgMFFQodoAAAm HTTP/1.1" 200 -
+2025-04-24 18:31:35,762 - INFO - Stopped Receiving Audio
+2025-04-24 18:31:35,805 - INFO - Received audio chunk
+2025-04-24 18:31:36,074 - INFO - Predicted Emotion: Angry (Confidence: 0.56)
+2025-04-24 18:32:41,301 - INFO - 127.0.0.1 - - [24/Apr/2025 18:32:41] "GET /socket.io/?EIO=4&transport=websocket&sid=kFPcgJsdgMFFQodoAAAm HTTP/1.1" 200 -
+2025-04-24 18:32:42,110 - INFO - 127.0.0.1 - - [24/Apr/2025 18:32:42] "GET /socket.io/?EIO=4&transport=polling&t=dho6t0f8 HTTP/1.1" 200 -
+2025-04-24 18:32:42,193 - INFO - 127.0.0.1 - - [24/Apr/2025 18:32:42] "POST /socket.io/?EIO=4&transport=polling&t=dho92yiu&sid=Si3JIC28Sk81h8qWAAAo HTTP/1.1" 200 -
+2025-04-24 18:32:42,203 - INFO - 127.0.0.1 - - [24/Apr/2025 18:32:42] "GET /socket.io/?EIO=4&transport=polling&t=dho95lbr&sid=Si3JIC28Sk81h8qWAAAo HTTP/1.1" 200 -
+2025-04-24 18:32:42,257 - INFO - 127.0.0.1 - - [24/Apr/2025 18:32:42] "GET /socket.io/?EIO=4&transport=polling&t=dhoaqzct&sid=Si3JIC28Sk81h8qWAAAo HTTP/1.1" 200 -
+2025-04-24 18:32:54,111 - INFO - Stopped Receiving Audio
+2025-04-24 18:32:54,157 - INFO - Received audio chunk
+2025-04-24 18:32:54,563 - INFO - Predicted Emotion: Disgust (Confidence: 1.00)
+2025-04-24 18:32:58,275 - INFO - 127.0.0.1 - - [24/Apr/2025 18:32:58] "GET /socket.io/?EIO=4&transport=websocket&sid=Si3JIC28Sk81h8qWAAAo HTTP/1.1" 200 -
+2025-04-24 18:32:59,039 - INFO - 127.0.0.1 - - [24/Apr/2025 18:32:59] "GET /socket.io/?EIO=4&transport=polling&t=di18w9o2 HTTP/1.1" 200 -
+2025-04-24 18:32:59,137 - INFO - 127.0.0.1 - - [24/Apr/2025 18:32:59] "POST /socket.io/?EIO=4&transport=polling&t=di1btawe&sid=avPD7IU4A-GYUWfJAAAq HTTP/1.1" 200 -
+2025-04-24 18:32:59,143 - INFO - 127.0.0.1 - - [24/Apr/2025 18:32:59] "GET /socket.io/?EIO=4&transport=polling&t=di1bww64&sid=avPD7IU4A-GYUWfJAAAq HTTP/1.1" 200 -
+2025-04-24 18:32:59,193 - INFO - 127.0.0.1 - - [24/Apr/2025 18:32:59] "GET /socket.io/?EIO=4&transport=polling&t=di1dcnzm&sid=avPD7IU4A-GYUWfJAAAq HTTP/1.1" 200 -
+2025-04-24 18:33:52,522 - INFO - 127.0.0.1 - - [24/Apr/2025 18:33:52] "GET /socket.io/?EIO=4&transport=websocket&sid=avPD7IU4A-GYUWfJAAAq HTTP/1.1" 200 -
+2025-04-24 18:33:53,229 - INFO - 127.0.0.1 - - [24/Apr/2025 18:33:53] "GET /socket.io/?EIO=4&transport=polling&t=dj7274wx HTTP/1.1" 200 -
+2025-04-24 18:33:53,373 - INFO - 127.0.0.1 - - [24/Apr/2025 18:33:53] "POST /socket.io/?EIO=4&transport=polling&t=dj766y3i&sid=PkoNKpw0Eedq2aOsAAAs HTTP/1.1" 200 -
+2025-04-24 18:33:53,384 - INFO - 127.0.0.1 - - [24/Apr/2025 18:33:53] "GET /socket.io/?EIO=4&transport=polling&t=dj769w7o&sid=PkoNKpw0Eedq2aOsAAAs HTTP/1.1" 200 -
+2025-04-24 18:33:53,454 - INFO - 127.0.0.1 - - [24/Apr/2025 18:33:53] "GET /socket.io/?EIO=4&transport=polling&t=dj78e18a&sid=PkoNKpw0Eedq2aOsAAAs HTTP/1.1" 200 -
+2025-04-24 18:33:57,194 - INFO - Stopped Receiving Audio
+2025-04-24 18:33:57,228 - INFO - Received audio chunk
+2025-04-24 18:33:57,580 - INFO - Predicted Emotion: Disgust (Confidence: 1.00)
+2025-04-24 18:37:04,182 - INFO - 127.0.0.1 - - [24/Apr/2025 18:37:04] "GET /socket.io/?EIO=4&transport=websocket&sid=PkoNKpw0Eedq2aOsAAAs HTTP/1.1" 200 -
+2025-04-24 18:37:59,942 - INFO - 127.0.0.1 - - [24/Apr/2025 18:37:59] "GET /socket.io/?EIO=4&transport=polling&t=dohflgeh HTTP/1.1" 200 -
+2025-04-24 18:37:59,994 - INFO - 127.0.0.1 - - [24/Apr/2025 18:37:59] "GET /socket.io/?EIO=4&transport=polling&t=dohgxb5r HTTP/1.1" 200 -
+2025-04-24 18:38:00,005 - INFO - 127.0.0.1 - - [24/Apr/2025 18:38:00] "POST /socket.io/?EIO=4&transport=polling&t=dohhblv3&sid=8FhBnavxeVkgAzbTAAAu HTTP/1.1" 200 -
+2025-04-24 18:38:00,019 - INFO - 127.0.0.1 - - [24/Apr/2025 18:38:00] "GET /socket.io/?EIO=4&transport=polling&t=dohhdrn0&sid=8FhBnavxeVkgAzbTAAAu HTTP/1.1" 200 -
+2025-04-24 18:38:00,062 - INFO - 127.0.0.1 - - [24/Apr/2025 18:38:00] "GET /socket.io/?EIO=4&transport=polling&t=dohix5mc&sid=8FhBnavxeVkgAzbTAAAu HTTP/1.1" 200 -
+2025-04-24 18:38:00,077 - INFO - 127.0.0.1 - - [24/Apr/2025 18:38:00] "POST /socket.io/?EIO=4&transport=polling&t=dohjacq7&sid=mlfqIlrgQjlSv24jAAAv HTTP/1.1" 200 -
+2025-04-24 18:38:00,084 - INFO - 127.0.0.1 - - [24/Apr/2025 18:38:00] "GET /socket.io/?EIO=4&transport=polling&t=dohjckof&sid=mlfqIlrgQjlSv24jAAAv HTTP/1.1" 200 -
+2025-04-24 18:38:00,278 - INFO - 127.0.0.1 - - [24/Apr/2025 18:38:00] "GET /socket.io/?EIO=4&transport=polling&t=dohnxvaj&sid=mlfqIlrgQjlSv24jAAAv HTTP/1.1" 200 -
+2025-04-24 18:38:00,299 - INFO - 127.0.0.1 - - [24/Apr/2025 18:38:00] "GET /socket.io/?EIO=4&transport=polling&t=doho9ck2&sid=8FhBnavxeVkgAzbTAAAu HTTP/1.1" 200 -
+2025-04-24 18:38:05,963 - INFO - Stopped Receiving Audio
+2025-04-24 18:38:06,011 - INFO - Received audio chunk
+2025-04-24 18:38:06,304 - INFO - Predicted Emotion: Disgust (Confidence: 0.99)
+2025-04-24 18:38:32,809 - INFO - 127.0.0.1 - - [24/Apr/2025 18:38:32] "GET /socket.io/?EIO=4&transport=websocket&sid=mlfqIlrgQjlSv24jAAAv HTTP/1.1" 200 -
+2025-04-24 18:38:33,491 - INFO - 127.0.0.1 - - [24/Apr/2025 18:38:33] "GET /socket.io/?EIO=4&transport=polling&t=dp7bfctf HTTP/1.1" 200 -
+2025-04-24 18:38:33,578 - INFO - 127.0.0.1 - - [24/Apr/2025 18:38:33] "POST /socket.io/?EIO=4&transport=polling&t=dp7dpnrf&sid=IMi7RkiGj3673ZC6AAAy HTTP/1.1" 200 -
+2025-04-24 18:38:33,582 - INFO - 127.0.0.1 - - [24/Apr/2025 18:38:33] "GET /socket.io/?EIO=4&transport=polling&t=dp7dsos7&sid=IMi7RkiGj3673ZC6AAAy HTTP/1.1" 200 -
+2025-04-24 18:38:33,627 - INFO - 127.0.0.1 - - [24/Apr/2025 18:38:33] "GET /socket.io/?EIO=4&transport=polling&t=dp7f51tw&sid=IMi7RkiGj3673ZC6AAAy HTTP/1.1" 200 -
+2025-04-24 18:39:16,772 - INFO - 127.0.0.1 - - [24/Apr/2025 18:39:16] "GET /socket.io/?EIO=4&transport=websocket&sid=IMi7RkiGj3673ZC6AAAy HTTP/1.1" 200 -
+2025-04-24 18:40:08,267 - INFO - 127.0.0.1 - - [24/Apr/2025 18:40:08] "GET /socket.io/?EIO=4&transport=websocket&sid=8FhBnavxeVkgAzbTAAAu HTTP/1.1" 200 -
+2025-04-24 18:40:09,030 - INFO - 127.0.0.1 - - [24/Apr/2025 18:40:09] "GET /socket.io/?EIO=4&transport=polling&t=dr915xvg HTTP/1.1" 200 -
+2025-04-24 18:40:09,118 - INFO - 127.0.0.1 - - [24/Apr/2025 18:40:09] "POST /socket.io/?EIO=4&transport=polling&t=dr93slf1&sid=bfli421a9t617sPQAAA0 HTTP/1.1" 200 -
+2025-04-24 18:40:09,125 - INFO - 127.0.0.1 - - [24/Apr/2025 18:40:09] "GET /socket.io/?EIO=4&transport=polling&t=dr93veii&sid=bfli421a9t617sPQAAA0 HTTP/1.1" 200 -
+2025-04-24 18:40:09,157 - INFO - 127.0.0.1 - - [24/Apr/2025 18:40:09] "GET /socket.io/?EIO=4&transport=polling&t=dr94m9au&sid=bfli421a9t617sPQAAA0 HTTP/1.1" 200 -
+2025-04-24 18:40:13,578 - INFO - Stopped Receiving Audio
+2025-04-24 18:40:13,634 - INFO - Received audio chunk
+2025-04-24 18:40:13,962 - INFO - Predicted Emotion: Disgust (Confidence: 1.00)
+2025-04-24 18:41:22,170 - INFO - 127.0.0.1 - - [24/Apr/2025 18:41:22] "GET /socket.io/?EIO=4&transport=websocket&sid=bfli421a9t617sPQAAA0 HTTP/1.1" 200 -
+2025-04-24 18:41:23,200 - INFO - 127.0.0.1 - - [24/Apr/2025 18:41:23] "GET /socket.io/?EIO=4&transport=polling&t=dsu9ef8t HTTP/1.1" 200 -
+2025-04-24 18:41:23,326 - INFO - 127.0.0.1 - - [24/Apr/2025 18:41:23] "POST /socket.io/?EIO=4&transport=polling&t=dsud16cs&sid=Rsl0_kQmdF29IJWeAAA2 HTTP/1.1" 200 -
+2025-04-24 18:41:23,339 - INFO - 127.0.0.1 - - [24/Apr/2025 18:41:23] "GET /socket.io/?EIO=4&transport=polling&t=dsud4lwh&sid=Rsl0_kQmdF29IJWeAAA2 HTTP/1.1" 200 -
+2025-04-24 18:41:23,386 - INFO - 127.0.0.1 - - [24/Apr/2025 18:41:23] "GET /socket.io/?EIO=4&transport=polling&t=dsuenjdv&sid=Rsl0_kQmdF29IJWeAAA2 HTTP/1.1" 200 -
+2025-04-24 18:41:23,439 - INFO - 127.0.0.1 - - [24/Apr/2025 18:41:23] "GET /socket.io/?EIO=4&transport=polling&t=dsufj1yt&sid=Rsl0_kQmdF29IJWeAAA2 HTTP/1.1" 200 -
+2025-04-24 18:41:28,203 - INFO - Stopped Receiving Audio
+2025-04-24 18:41:28,222 - INFO - Received audio chunk
+2025-04-24 18:41:28,430 - INFO - Predicted Emotion: Disgust (Confidence: 1.00)
+2025-04-24 18:41:45,488 - INFO - 127.0.0.1 - - [24/Apr/2025 18:41:45] "GET /socket.io/?EIO=4&transport=polling&t=dtbgey68 HTTP/1.1" 200 -
+2025-04-24 18:41:45,519 - INFO - 127.0.0.1 - - [24/Apr/2025 18:41:45] "POST /socket.io/?EIO=4&transport=polling&t=dtbh27r5&sid=HGOTi9hofDuRfKQbAAA4 HTTP/1.1" 200 -
+2025-04-24 18:41:45,540 - INFO - 127.0.0.1 - - [24/Apr/2025 18:41:45] "GET /socket.io/?EIO=4&transport=polling&t=dtbh7of4&sid=HGOTi9hofDuRfKQbAAA4 HTTP/1.1" 200 -
+2025-04-24 18:41:56,131 - INFO - 127.0.0.1 - - [24/Apr/2025 18:41:56] "GET /socket.io/?EIO=4&transport=websocket&sid=Rsl0_kQmdF29IJWeAAA2 HTTP/1.1" 200 -
+2025-04-24 18:41:56,144 - INFO - 127.0.0.1 - - [24/Apr/2025 18:41:56] "GET /socket.io/?EIO=4&transport=websocket&sid=HGOTi9hofDuRfKQbAAA4 HTTP/1.1" 200 -
+2025-04-24 18:41:57,042 - INFO - 127.0.0.1 - - [24/Apr/2025 18:41:57] "GET /socket.io/?EIO=4&transport=polling&t=dtkdeevs HTTP/1.1" 200 -
+2025-04-24 18:41:57,198 - INFO - 127.0.0.1 - - [24/Apr/2025 18:41:57] "POST /socket.io/?EIO=4&transport=polling&t=dtkhk8sr&sid=rn1isLlmMiclD0nlAAA6 HTTP/1.1" 200 -
+2025-04-24 18:41:57,213 - INFO - 127.0.0.1 - - [24/Apr/2025 18:41:57] "GET /socket.io/?EIO=4&transport=polling&t=dtkhot6l&sid=rn1isLlmMiclD0nlAAA6 HTTP/1.1" 200 -
+2025-04-24 18:41:57,276 - INFO - 127.0.0.1 - - [24/Apr/2025 18:41:57] "GET /socket.io/?EIO=4&transport=polling&t=dtkjz7io&sid=rn1isLlmMiclD0nlAAA6 HTTP/1.1" 200 -
+2025-04-24 18:42:48,747 - INFO - 127.0.0.1 - - [24/Apr/2025 18:42:48] "GET /socket.io/?EIO=4&transport=websocket&sid=rn1isLlmMiclD0nlAAA6 HTTP/1.1" 200 -
+2025-04-24 18:42:48,880 - INFO - 127.0.0.1 - - [24/Apr/2025 18:42:48] "GET /socket.io/?EIO=4&transport=polling&t=duodie54 HTTP/1.1" 200 -
+2025-04-24 18:42:49,121 - INFO - 127.0.0.1 - - [24/Apr/2025 18:42:49] "POST /socket.io/?EIO=4&transport=polling&t=duok325e&sid=qQpgqlAlbwPEVusZAAA8 HTTP/1.1" 200 -
+2025-04-24 18:42:49,157 - INFO - 127.0.0.1 - - [24/Apr/2025 18:42:49] "GET /socket.io/?EIO=4&transport=polling&t=duokvj9h&sid=qQpgqlAlbwPEVusZAAA8 HTTP/1.1" 200 -
+2025-04-24 18:42:49,219 - INFO - 127.0.0.1 - - [24/Apr/2025 18:42:49] "GET /socket.io/?EIO=4&transport=polling&t=duom6zo4&sid=qQpgqlAlbwPEVusZAAA8 HTTP/1.1" 200 -
+2025-04-24 18:51:48,768 - INFO - 127.0.0.1 - - [24/Apr/2025 18:51:48] "GET /socket.io/?EIO=4&transport=polling&t=e68yhmak HTTP/1.1" 200 -
+2025-04-24 18:51:48,816 - INFO - 127.0.0.1 - - [24/Apr/2025 18:51:48] "POST /socket.io/?EIO=4&transport=polling&t=e68zwc37&sid=lDXUD4Uqr7wDMIUsAAA- HTTP/1.1" 200 -
+2025-04-24 18:51:48,823 - INFO - 127.0.0.1 - - [24/Apr/2025 18:51:48] "GET /socket.io/?EIO=4&transport=polling&t=e68zx1se&sid=lDXUD4Uqr7wDMIUsAAA- HTTP/1.1" 200 -
+2025-04-24 18:51:48,882 - INFO - 127.0.0.1 - - [24/Apr/2025 18:51:48] "GET /socket.io/?EIO=4&transport=polling&t=e690r94e&sid=lDXUD4Uqr7wDMIUsAAA- HTTP/1.1" 200 -
+2025-04-24 18:51:49,321 - INFO - 127.0.0.1 - - [24/Apr/2025 18:51:49] "GET /socket.io/?EIO=4&transport=polling&t=e69dljpc&sid=lDXUD4Uqr7wDMIUsAAA- HTTP/1.1" 200 -
+2025-04-24 18:52:25,966 - INFO - Stopped Receiving Audio
+2025-04-24 18:52:25,981 - INFO - Received audio chunk
+2025-04-24 18:52:26,327 - INFO - Predicted Emotion: Calm (Confidence: 0.64)
+2025-04-24 18:55:09,575 - INFO - 127.0.0.1 - - [24/Apr/2025 18:55:09] "GET /socket.io/?EIO=4&transport=websocket&sid=qQpgqlAlbwPEVusZAAA8 HTTP/1.1" 200 -
+2025-04-24 18:55:11,418 - INFO - 127.0.0.1 - - [24/Apr/2025 18:55:11] "GET /socket.io/?EIO=4&transport=websocket&sid=lDXUD4Uqr7wDMIUsAAA- HTTP/1.1" 200 -
+2025-04-24 18:55:12,116 - INFO - 127.0.0.1 - - [24/Apr/2025 18:55:12] "GET /socket.io/?EIO=4&transport=polling&t=ealuwyx7 HTTP/1.1" 200 -
+2025-04-24 18:55:12,192 - INFO - 127.0.0.1 - - [24/Apr/2025 18:55:12] "POST /socket.io/?EIO=4&transport=polling&t=ealx3x60&sid=QX207BuD6ws3ThzgAABA HTTP/1.1" 200 -
+2025-04-24 18:55:12,201 - INFO - 127.0.0.1 - - [24/Apr/2025 18:55:12] "GET /socket.io/?EIO=4&transport=polling&t=ealx4fda&sid=QX207BuD6ws3ThzgAABA HTTP/1.1" 200 -
+2025-04-24 18:55:12,252 - INFO - 127.0.0.1 - - [24/Apr/2025 18:55:12] "GET /socket.io/?EIO=4&transport=polling&t=ealylpy0&sid=QX207BuD6ws3ThzgAABA HTTP/1.1" 200 -
+2025-04-24 18:55:17,144 - INFO - Stopped Receiving Audio
+2025-04-24 18:55:17,199 - INFO - Received audio chunk
+2025-04-24 18:55:17,675 - INFO - Predicted Emotion: Disgust (Confidence: 1.00)
+2025-04-24 18:56:11,857 - INFO - 127.0.0.1 - - [24/Apr/2025 18:56:11] "GET /socket.io/?EIO=4&transport=websocket&sid=QX207BuD6ws3ThzgAABA HTTP/1.1" 200 -
+2025-04-24 18:56:12,556 - INFO - 127.0.0.1 - - [24/Apr/2025 18:56:12] "GET /socket.io/?EIO=4&transport=polling&t=ebwhqm7d HTTP/1.1" 200 -
+2025-04-24 18:56:12,643 - INFO - 127.0.0.1 - - [24/Apr/2025 18:56:12] "POST /socket.io/?EIO=4&transport=polling&t=ebwk3zca&sid=gLjUGr3Pc-qEd0hdAABC HTTP/1.1" 200 -
+2025-04-24 18:56:12,680 - INFO - 127.0.0.1 - - [24/Apr/2025 18:56:12] "GET /socket.io/?EIO=4&transport=polling&t=ebwk79kr&sid=gLjUGr3Pc-qEd0hdAABC HTTP/1.1" 200 -
+2025-04-24 18:56:12,732 - INFO - 127.0.0.1 - - [24/Apr/2025 18:56:12] "GET /socket.io/?EIO=4&transport=polling&t=ebwm6e6w&sid=gLjUGr3Pc-qEd0hdAABC HTTP/1.1" 200 -
+2025-04-24 18:57:42,495 - INFO - Stopped Receiving Audio
+2025-04-24 18:57:42,512 - INFO - Received audio chunk
+2025-04-24 18:57:42,735 - INFO - Predicted Emotion: Calm (Confidence: 0.99)
+2025-04-24 19:00:36,657 - INFO - 127.0.0.1 - - [24/Apr/2025 19:00:36] "GET /socket.io/?EIO=4&transport=polling&t=ehk9w1mg HTTP/1.1" 200 -
+2025-04-24 19:00:36,678 - INFO - 127.0.0.1 - - [24/Apr/2025 19:00:36] "POST /socket.io/?EIO=4&transport=polling&t=ehkallle&sid=asr3vv3YvOdZSJz3AABE HTTP/1.1" 200 -
+2025-04-24 19:00:36,715 - INFO - 127.0.0.1 - - [24/Apr/2025 19:00:36] "GET /socket.io/?EIO=4&transport=polling&t=ehkbdpc8&sid=asr3vv3YvOdZSJz3AABE HTTP/1.1" 200 -
+2025-04-24 19:00:36,743 - INFO - 127.0.0.1 - - [24/Apr/2025 19:00:36] "GET /socket.io/?EIO=4&transport=polling&t=ehkc3x1z&sid=asr3vv3YvOdZSJz3AABE HTTP/1.1" 200 -
+2025-04-24 19:01:07,414 - INFO - 127.0.0.1 - - [24/Apr/2025 19:01:07] "GET /socket.io/?EIO=4&transport=websocket&sid=gLjUGr3Pc-qEd0hdAABC HTTP/1.1" 200 -
+2025-04-24 19:01:07,446 - INFO - 127.0.0.1 - - [24/Apr/2025 19:01:07] "GET /socket.io/?EIO=4&transport=websocket&sid=asr3vv3YvOdZSJz3AABE HTTP/1.1" 200 -
+2025-04-24 19:01:08,195 - INFO - 127.0.0.1 - - [24/Apr/2025 19:01:08] "GET /socket.io/?EIO=4&transport=polling&t=ei8lxj4b HTTP/1.1" 200 -
+2025-04-24 19:01:08,265 - INFO - 127.0.0.1 - - [24/Apr/2025 19:01:08] "POST /socket.io/?EIO=4&transport=polling&t=ei8nxky5&sid=OKPXyRwEwCM6fugzAABG HTTP/1.1" 200 -
+2025-04-24 19:01:08,274 - INFO - 127.0.0.1 - - [24/Apr/2025 19:01:08] "GET /socket.io/?EIO=4&transport=polling&t=ei8o3jj7&sid=OKPXyRwEwCM6fugzAABG HTTP/1.1" 200 -
+2025-04-24 19:01:08,335 - INFO - 127.0.0.1 - - [24/Apr/2025 19:01:08] "GET /socket.io/?EIO=4&transport=polling&t=ei8pg5zg&sid=OKPXyRwEwCM6fugzAABG HTTP/1.1" 200 -
+2025-04-24 19:01:11,763 - INFO - Stopped Receiving Audio
+2025-04-24 19:01:11,776 - INFO - Received audio chunk
+2025-04-24 19:01:12,215 - INFO - Predicted Emotion: Sad (Confidence: 0.87)
+2025-04-24 19:01:15,741 - INFO - 127.0.0.1 - - [24/Apr/2025 19:01:15] "GET /socket.io/?EIO=4&transport=websocket&sid=OKPXyRwEwCM6fugzAABG HTTP/1.1" 200 -
+2025-04-24 19:01:15,934 - INFO - 127.0.0.1 - - [24/Apr/2025 19:01:15] "GET /socket.io/?EIO=4&transport=polling&t=eiej64ui HTTP/1.1" 200 -
+2025-04-24 19:01:16,097 - INFO - 127.0.0.1 - - [24/Apr/2025 19:01:16] "POST /socket.io/?EIO=4&transport=polling&t=eiepckc6&sid=cEumpFS1Tp8eeldLAABI HTTP/1.1" 200 -
+2025-04-24 19:01:16,127 - INFO - 127.0.0.1 - - [24/Apr/2025 19:01:16] "GET /socket.io/?EIO=4&transport=polling&t=eiepuzb4&sid=cEumpFS1Tp8eeldLAABI HTTP/1.1" 200 -
+2025-04-24 19:01:16,165 - INFO - 127.0.0.1 - - [24/Apr/2025 19:01:16] "GET /socket.io/?EIO=4&transport=polling&t=eier1gib&sid=cEumpFS1Tp8eeldLAABI HTTP/1.1" 200 -
+2025-04-24 19:01:19,981 - INFO - Stopped Receiving Audio
+2025-04-24 19:01:20,001 - INFO - Received audio chunk
+2025-04-24 19:01:20,189 - INFO - Predicted Emotion: Calm (Confidence: 1.00)
+2025-04-24 19:01:23,343 - INFO - 127.0.0.1 - - [24/Apr/2025 19:01:23] "GET /socket.io/?EIO=4&transport=websocket&sid=cEumpFS1Tp8eeldLAABI HTTP/1.1" 200 -
+2025-04-24 19:01:23,446 - INFO - 127.0.0.1 - - [24/Apr/2025 19:01:23] "GET /socket.io/?EIO=4&transport=polling&t=eikdg26v HTTP/1.1" 200 -
+2025-04-24 19:01:23,503 - INFO - 127.0.0.1 - - [24/Apr/2025 19:01:23] "POST /socket.io/?EIO=4&transport=polling&t=eikf3ksp&sid=Fwv_LQEsrtGd71MBAABK HTTP/1.1" 200 -
+2025-04-24 19:01:23,522 - INFO - 127.0.0.1 - - [24/Apr/2025 19:01:23] "GET /socket.io/?EIO=4&transport=polling&t=eikf31rc&sid=Fwv_LQEsrtGd71MBAABK HTTP/1.1" 200 -
+2025-04-24 19:01:27,438 - INFO - Stopped Receiving Audio
+2025-04-24 19:01:27,469 - INFO - Received audio chunk
+2025-04-24 19:01:27,690 - INFO - Predicted Emotion: Disgust (Confidence: 0.96)
+2025-04-24 19:01:39,154 - INFO - 127.0.0.1 - - [24/Apr/2025 19:01:39] "GET /socket.io/?EIO=4&transport=websocket&sid=Fwv_LQEsrtGd71MBAABK HTTP/1.1" 200 -
+2025-04-24 19:01:41,218 - INFO - 127.0.0.1 - - [24/Apr/2025 19:01:41] "GET /socket.io/?EIO=4&transport=polling&t=eiy1tow1 HTTP/1.1" 200 -
+2025-04-24 19:01:41,269 - INFO - 127.0.0.1 - - [24/Apr/2025 19:01:41] "POST /socket.io/?EIO=4&transport=polling&t=eiy4hf7z&sid=5jLVdoVXKBCX8TuEAABM HTTP/1.1" 200 -
+2025-04-24 19:01:41,342 - INFO - 127.0.0.1 - - [24/Apr/2025 19:01:41] "GET /socket.io/?EIO=4&transport=polling&t=eiy4kqbt&sid=5jLVdoVXKBCX8TuEAABM HTTP/1.1" 200 -
+2025-04-24 19:40:22,835 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-24 19:40:22,921 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 19:40:22,922 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 19:40:22,922 - INFO -  * Restarting with stat
+2025-04-24 19:40:32,733 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-24 19:40:32,755 - WARNING -  * Debugger is active!
+2025-04-24 19:40:32,779 - INFO -  * Debugger PIN: 711-820-657
+2025-04-24 19:40:32,820 - INFO - 127.0.0.1 - - [24/Apr/2025 19:40:32] "GET /socket.io/?EIO=4&transport=polling&t=fwp1b7bv HTTP/1.1" 200 -
+2025-04-24 19:40:32,838 - INFO - 127.0.0.1 - - [24/Apr/2025 19:40:32] "POST /socket.io/?EIO=4&transport=polling&t=fwx6l2bt&sid=11hQ8wb5keQi3uPUAAAA HTTP/1.1" 200 -
+2025-04-24 19:40:32,844 - INFO - 127.0.0.1 - - [24/Apr/2025 19:40:32] "GET /socket.io/?EIO=4&transport=polling&t=fwx6p4zv&sid=11hQ8wb5keQi3uPUAAAA HTTP/1.1" 200 -
+2025-04-24 19:40:32,862 - INFO - Stopped Receiving Audio
+2025-04-24 19:40:32,865 - INFO - Received audio chunk
+2025-04-24 19:40:32,866 - INFO - Stopped Receiving Audio
+2025-04-24 19:40:32,870 - INFO - Received audio chunk
+2025-04-24 19:40:43,589 - INFO - Predicted Emotion: Disgust (Confidence: 1.00)
+2025-04-24 19:40:43,589 - INFO - Predicted Emotion: Surprised (Confidence: 1.00)
+2025-04-24 19:42:16,477 - INFO - 127.0.0.1 - - [24/Apr/2025 19:42:16] "GET /socket.io/?EIO=4&transport=websocket&sid=11hQ8wb5keQi3uPUAAAA HTTP/1.1" 200 -
+2025-04-24 19:42:17,737 - INFO - 127.0.0.1 - - [24/Apr/2025 19:42:17] "GET /socket.io/?EIO=4&transport=polling&t=fz649r4q HTTP/1.1" 200 -
+2025-04-24 19:42:17,916 - INFO - 127.0.0.1 - - [24/Apr/2025 19:42:17] "POST /socket.io/?EIO=4&transport=polling&t=fz68fqix&sid=4bHrUJEqEWvEzHuRAAAC HTTP/1.1" 200 -
+2025-04-24 19:42:17,926 - INFO - 127.0.0.1 - - [24/Apr/2025 19:42:17] "GET /socket.io/?EIO=4&transport=polling&t=fz68jmz8&sid=4bHrUJEqEWvEzHuRAAAC HTTP/1.1" 200 -
+2025-04-24 19:42:17,974 - INFO - 127.0.0.1 - - [24/Apr/2025 19:42:17] "GET /socket.io/?EIO=4&transport=polling&t=fz6avmje&sid=4bHrUJEqEWvEzHuRAAAC HTTP/1.1" 200 -
+2025-04-24 19:42:18,024 - INFO - 127.0.0.1 - - [24/Apr/2025 19:42:18] "GET /socket.io/?EIO=4&transport=polling&t=fz6c67mh&sid=4bHrUJEqEWvEzHuRAAAC HTTP/1.1" 200 -
+2025-04-24 19:42:22,967 - INFO - Stopped Receiving Audio
+2025-04-24 19:42:23,016 - INFO - Received audio chunk
+2025-04-24 19:42:23,368 - INFO - Predicted Emotion: Sad (Confidence: 1.00)
+2025-04-24 19:42:31,899 - INFO - Stopped Receiving Audio
+2025-04-24 19:42:31,939 - INFO - Received audio chunk
+2025-04-24 19:42:32,316 - INFO - Predicted Emotion: Disgust (Confidence: 0.95)
+2025-04-24 19:42:37,233 - INFO - Stopped Receiving Audio
+2025-04-24 19:42:37,275 - INFO - Received audio chunk
+2025-04-24 19:42:37,625 - INFO - Predicted Emotion: Surprised (Confidence: 1.00)
+2025-04-24 19:42:56,359 - INFO - Stopped Receiving Audio
+2025-04-24 19:42:56,399 - INFO - Received audio chunk
+2025-04-24 19:42:56,743 - INFO - Predicted Emotion: Disgust (Confidence: 0.98)
+2025-04-24 19:43:04,532 - INFO - Stopped Receiving Audio
+2025-04-24 19:43:04,580 - INFO - Received audio chunk
+2025-04-24 19:43:04,806 - INFO - Predicted Emotion: Fearful (Confidence: 0.78)
+2025-04-24 19:43:12,807 - INFO - Stopped Receiving Audio
+2025-04-24 19:43:12,851 - INFO - Received audio chunk
+2025-04-24 19:43:13,146 - INFO - Predicted Emotion: Surprised (Confidence: 1.00)
+2025-04-24 19:43:18,015 - INFO - Stopped Receiving Audio
+2025-04-24 19:43:18,056 - INFO - Received audio chunk
+2025-04-24 19:43:18,422 - INFO - Predicted Emotion: Surprised (Confidence: 1.00)
+2025-04-24 19:43:23,914 - INFO - Stopped Receiving Audio
+2025-04-24 19:43:23,960 - INFO - Received audio chunk
+2025-04-24 19:43:24,368 - INFO - Predicted Emotion: Sad (Confidence: 0.85)
+2025-04-24 19:43:31,932 - INFO - Stopped Receiving Audio
+2025-04-24 19:43:31,975 - INFO - Received audio chunk
+2025-04-24 19:43:32,280 - INFO - Predicted Emotion: Disgust (Confidence: 0.98)
+2025-04-24 19:43:39,141 - INFO - Stopped Receiving Audio
+2025-04-24 19:43:39,185 - INFO - Received audio chunk
+2025-04-24 19:43:39,472 - INFO - Predicted Emotion: Disgust (Confidence: 0.56)
+2025-04-24 19:43:53,856 - INFO - Stopped Receiving Audio
+2025-04-24 19:43:53,922 - INFO - Received audio chunk
+2025-04-24 19:43:54,343 - INFO - Predicted Emotion: Surprised (Confidence: 0.98)
+2025-04-24 19:44:08,855 - INFO - Stopped Receiving Audio
+2025-04-24 19:44:08,913 - INFO - Received audio chunk
+2025-04-24 19:44:09,199 - INFO - Predicted Emotion: Disgust (Confidence: 1.00)
+2025-04-24 19:44:15,797 - INFO - Stopped Receiving Audio
+2025-04-24 19:44:15,853 - INFO - Received audio chunk
+2025-04-24 19:44:16,190 - INFO - Predicted Emotion: Surprised (Confidence: 1.00)
+2025-04-24 19:44:22,654 - INFO - Stopped Receiving Audio
+2025-04-24 19:44:22,692 - INFO - Received audio chunk
+2025-04-24 19:44:23,061 - INFO - Predicted Emotion: Sad (Confidence: 1.00)
+2025-04-24 19:44:31,519 - INFO - Stopped Receiving Audio
+2025-04-24 19:44:31,565 - INFO - Received audio chunk
+2025-04-24 19:44:31,922 - INFO - Predicted Emotion: Angry (Confidence: 0.47)
+2025-04-24 19:45:12,506 - INFO - 127.0.0.1 - - [24/Apr/2025 19:45:12] "GET /socket.io/?EIO=4&transport=websocket&sid=4bHrUJEqEWvEzHuRAAAC HTTP/1.1" 200 -
+2025-04-25 09:11:10,639 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-25 09:11:10,680 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-25 09:11:10,680 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-25 09:11:10,680 - INFO -  * Restarting with stat
+2025-04-25 09:11:19,862 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-25 09:11:19,876 - WARNING -  * Debugger is active!
+2025-04-25 09:11:19,889 - INFO -  * Debugger PIN: 711-820-657
+2025-04-25 09:11:41,849 - INFO - 127.0.0.1 - - [25/Apr/2025 09:11:41] "GET /socket.io/?EIO=4&transport=polling&t=8w2flkk6 HTTP/1.1" 200 -
+2025-04-25 09:11:41,909 - INFO - 127.0.0.1 - - [25/Apr/2025 09:11:41] "POST /socket.io/?EIO=4&transport=polling&t=8w2hb7mr&sid=642fBToirid8CLqvAAAA HTTP/1.1" 200 -
+2025-04-25 09:11:41,915 - INFO - 127.0.0.1 - - [25/Apr/2025 09:11:41] "GET /socket.io/?EIO=4&transport=polling&t=8w2hec7z&sid=642fBToirid8CLqvAAAA HTTP/1.1" 200 -
+2025-04-25 09:11:42,082 - INFO - 127.0.0.1 - - [25/Apr/2025 09:11:42] "GET /socket.io/?EIO=4&transport=polling&t=8w2lxpje&sid=642fBToirid8CLqvAAAA HTTP/1.1" 200 -
+2025-04-25 09:12:06,410 - INFO - Stopped Receiving Audio
+2025-04-25 09:12:06,444 - INFO - Received audio chunk
+2025-04-25 09:12:18,168 - INFO - Predicted Emotion: Surprised (Confidence: 1.00)
+2025-04-25 09:13:56,523 - INFO - Stopped Receiving Audio
+2025-04-25 09:13:56,551 - INFO - Received audio chunk
+2025-04-25 09:13:56,789 - INFO - Predicted Emotion: Calm (Confidence: 0.86)
+2025-04-25 09:14:50,197 - INFO - Stopped Receiving Audio
+2025-04-25 09:14:50,240 - INFO - Received audio chunk
+2025-04-25 09:14:50,518 - INFO - Predicted Emotion: Surprised (Confidence: 1.00)
+2025-04-25 09:15:56,804 - INFO - Stopped Receiving Audio
+2025-04-25 09:15:56,823 - INFO - Received audio chunk
+2025-04-25 09:15:56,983 - INFO - Predicted Emotion: Surprised (Confidence: 1.00)
+2025-04-25 09:16:04,620 - INFO - Stopped Receiving Audio
+2025-04-25 09:16:04,648 - INFO - Received audio chunk
+2025-04-25 09:16:04,808 - INFO - Predicted Emotion: Surprised (Confidence: 0.78)
+2025-04-25 09:16:07,150 - INFO - Stopped Receiving Audio
+2025-04-25 09:16:07,162 - INFO - Received audio chunk
+2025-04-25 09:16:07,299 - INFO - Predicted Emotion: Surprised (Confidence: 1.00)
+2025-04-25 09:20:04,643 - INFO - Stopped Receiving Audio
+2025-04-25 09:20:04,668 - INFO - Received audio chunk
+2025-04-25 09:20:04,826 - INFO - Predicted Emotion: Sad (Confidence: 1.00)
+2025-04-25 09:22:55,925 - INFO - 127.0.0.1 - - [25/Apr/2025 09:22:55] "GET /socket.io/?EIO=4&transport=websocket&sid=642fBToirid8CLqvAAAA HTTP/1.1" 200 -
+2025-04-25 09:22:58,545 - INFO - 127.0.0.1 - - [25/Apr/2025 09:22:58] "GET /socket.io/?EIO=4&transport=polling&t=9ajxdv6j HTTP/1.1" 200 -
+2025-04-25 09:22:58,649 - INFO - 127.0.0.1 - - [25/Apr/2025 09:22:58] "POST /socket.io/?EIO=4&transport=polling&t=9akm9bz7&sid=p1ag9SEtmi6VAJy8AAAC HTTP/1.1" 200 -
+2025-04-25 09:22:58,702 - INFO - 127.0.0.1 - - [25/Apr/2025 09:22:58] "GET /socket.io/?EIO=4&transport=polling&t=9akmbor9&sid=p1ag9SEtmi6VAJy8AAAC HTTP/1.1" 200 -
+2025-04-25 09:22:58,852 - INFO - 127.0.0.1 - - [25/Apr/2025 09:22:58] "GET /socket.io/?EIO=4&transport=polling&t=9akryopn&sid=p1ag9SEtmi6VAJy8AAAC HTTP/1.1" 200 -
+2025-04-25 09:27:57,045 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-25 09:27:57,138 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-25 09:27:57,139 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-25 09:27:57,139 - INFO -  * Restarting with stat
+2025-04-25 09:28:06,583 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-25 09:28:06,600 - WARNING -  * Debugger is active!
+2025-04-25 09:28:06,615 - INFO -  * Debugger PIN: 711-820-657
+2025-04-25 09:28:06,644 - INFO - 127.0.0.1 - - [25/Apr/2025 09:28:06] "GET /socket.io/?EIO=4&transport=polling&t=9h0grqvp HTTP/1.1" 200 -
+2025-04-25 09:28:06,660 - INFO - 127.0.0.1 - - [25/Apr/2025 09:28:06] "POST /socket.io/?EIO=4&transport=polling&t=9h6bcz5z&sid=Q7DeY0XJHaqmHK0zAAAA HTTP/1.1" 200 -
+2025-04-25 09:28:06,669 - INFO - 127.0.0.1 - - [25/Apr/2025 09:28:06] "GET /socket.io/?EIO=4&transport=polling&t=9h6bdplr&sid=Q7DeY0XJHaqmHK0zAAAA HTTP/1.1" 200 -
+2025-04-25 09:28:18,905 - INFO - Stopped Receiving Audio
+2025-04-25 09:28:18,936 - INFO - Received audio chunk
+2025-04-25 09:28:25,865 - INFO - Predicted Emotion: Sad (Confidence: 0.81)
+2025-04-25 09:28:34,304 - INFO - Stopped Receiving Audio
+2025-04-25 09:28:34,326 - INFO - Received audio chunk
+2025-04-25 09:28:34,458 - INFO - Predicted Emotion: Sad (Confidence: 0.99)
+2025-04-25 09:28:41,320 - INFO - Stopped Receiving Audio
+2025-04-25 09:28:41,342 - INFO - Received audio chunk
+2025-04-25 09:28:41,518 - INFO - Predicted Emotion: Disgust (Confidence: 0.99)
+2025-04-25 09:37:29,535 - INFO - 127.0.0.1 - - [25/Apr/2025 09:37:29] "GET /socket.io/?EIO=4&transport=websocket&sid=Q7DeY0XJHaqmHK0zAAAA HTTP/1.1" 200 -
+2025-04-25 09:37:30,619 - INFO - 127.0.0.1 - - [25/Apr/2025 09:37:30] "GET /socket.io/?EIO=4&transport=polling&t=9t9h1ttz HTTP/1.1" 200 -
+2025-04-25 09:37:30,639 - INFO - 127.0.0.1 - - [25/Apr/2025 09:37:30] "POST /socket.io/?EIO=4&transport=polling&t=9t9hb385&sid=qPXjWmGUxwFiJnf1AAAC HTTP/1.1" 200 -
+2025-04-25 09:37:30,647 - INFO - 127.0.0.1 - - [25/Apr/2025 09:37:30] "GET /socket.io/?EIO=4&transport=polling&t=9t9hea52&sid=qPXjWmGUxwFiJnf1AAAC HTTP/1.1" 200 -
+2025-04-25 09:37:45,098 - INFO - Stopped Receiving Audio
+2025-04-25 09:37:45,133 - INFO - Received audio chunk
+2025-04-25 09:37:45,287 - INFO - Predicted Emotion: Calm (Confidence: 0.90)
+2025-04-25 09:38:00,451 - INFO - Stopped Receiving Audio
+2025-04-25 09:38:00,467 - INFO - Received audio chunk
+2025-04-25 09:38:00,610 - INFO - Predicted Emotion: Surprised (Confidence: 1.00)
+2025-04-25 09:38:09,487 - INFO - Stopped Receiving Audio
+2025-04-25 09:38:09,508 - INFO - Received audio chunk
+2025-04-25 09:38:09,647 - INFO - Predicted Emotion: Disgust (Confidence: 0.87)
+2025-04-25 09:38:27,583 - INFO - Stopped Receiving Audio
+2025-04-25 09:38:27,610 - INFO - Received audio chunk
+2025-04-25 09:38:27,803 - INFO - Predicted Emotion: Disgust (Confidence: 1.00)
+2025-04-25 09:38:33,280 - INFO - Stopped Receiving Audio
+2025-04-25 09:38:33,306 - INFO - Received audio chunk
+2025-04-25 09:38:33,469 - INFO - Predicted Emotion: Surprised (Confidence: 0.88)
+2025-04-25 09:39:33,729 - INFO - Stopped Receiving Audio
+2025-04-25 09:39:33,749 - INFO - Received audio chunk
+2025-04-25 09:39:33,899 - INFO - Predicted Emotion: Neutral (Confidence: 0.98)
+2025-04-25 09:39:42,319 - INFO - Stopped Receiving Audio
+2025-04-25 09:39:42,336 - INFO - Received audio chunk
+2025-04-25 09:39:42,483 - INFO - Predicted Emotion: Sad (Confidence: 0.96)
+2025-04-25 09:40:49,288 - INFO - Stopped Receiving Audio
+2025-04-25 09:40:49,317 - INFO - Received audio chunk
+2025-04-25 09:40:49,509 - INFO - Predicted Emotion: Calm (Confidence: 0.75)
+2025-04-25 09:43:16,997 - INFO - Stopped Receiving Audio
+2025-04-25 09:43:17,023 - INFO - Received audio chunk
+2025-04-25 09:43:17,154 - INFO - Predicted Emotion: Sad (Confidence: 0.97)
+2025-04-25 09:50:16,906 - INFO - Stopped Receiving Audio
+2025-04-25 09:50:16,932 - INFO - Received audio chunk
+2025-04-25 09:50:17,114 - INFO - Predicted Emotion: Disgust (Confidence: 0.95)
+2025-04-25 09:55:56,485 - INFO - 127.0.0.1 - - [25/Apr/2025 09:55:56] "GET /socket.io/?EIO=4&transport=websocket&sid=qPXjWmGUxwFiJnf1AAAC HTTP/1.1" 200 -
+2025-04-25 09:55:56,959 - INFO - 127.0.0.1 - - [25/Apr/2025 09:55:56] "GET /socket.io/?EIO=4&transport=polling&t=agz4idjy HTTP/1.1" 200 -
+2025-04-25 09:55:57,163 - INFO - 127.0.0.1 - - [25/Apr/2025 09:55:57] "POST /socket.io/?EIO=4&transport=polling&t=agza87ft&sid=2Yo6rHO91qPELGBJAAAE HTTP/1.1" 200 -
+2025-04-25 09:55:57,194 - INFO - 127.0.0.1 - - [25/Apr/2025 09:55:57] "GET /socket.io/?EIO=4&transport=polling&t=agzarkwh&sid=2Yo6rHO91qPELGBJAAAE HTTP/1.1" 200 -
+2025-04-25 09:55:57,247 - INFO - 127.0.0.1 - - [25/Apr/2025 09:55:57] "GET /socket.io/?EIO=4&transport=polling&t=agzcgdcu&sid=2Yo6rHO91qPELGBJAAAE HTTP/1.1" 200 -
+2025-04-25 09:57:12,511 - INFO -  * Detected change in 'C:\\emotion-detector\\backend\\app.py', reloading
+2025-04-25 09:57:29,345 - INFO -  * Restarting with stat
+2025-04-25 09:57:59,781 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-25 09:57:59,817 - WARNING -  * Debugger is active!
+2025-04-25 09:57:59,841 - INFO -  * Debugger PIN: 711-820-657
+2025-04-25 09:57:59,870 - INFO - 127.0.0.1 - - [25/Apr/2025 09:57:59] "GET /socket.io/?EIO=4&transport=polling&t=aiwdvgbs HTTP/1.1" 200 -
+2025-04-25 09:57:59,871 - INFO - 127.0.0.1 - - [25/Apr/2025 09:57:59] "GET /socket.io/?EIO=4&transport=polling&t=aiylmgdg HTTP/1.1" 200 -
+2025-04-25 09:57:59,873 - INFO - 127.0.0.1 - - [25/Apr/2025 09:57:59] "GET /socket.io/?EIO=4&transport=polling&t=ajetz0ux HTTP/1.1" 200 -
+2025-04-25 09:57:59,877 - INFO - 127.0.0.1 - - [25/Apr/2025 09:57:59] "GET /socket.io/?EIO=4&transport=polling&t=ajfluhde HTTP/1.1" 200 -
+2025-04-25 09:57:59,894 - INFO - 127.0.0.1 - - [25/Apr/2025 09:57:59] "POST /socket.io/?EIO=4&transport=polling&t=ajlzcefp&sid=Jbrl4iRCF7kj5ENoAAAC HTTP/1.1" 200 -
+2025-04-25 09:57:59,900 - INFO - 127.0.0.1 - - [25/Apr/2025 09:57:59] "GET /socket.io/?EIO=4&transport=polling&t=ajlzjmt1&sid=Jbrl4iRCF7kj5ENoAAAC HTTP/1.1" 200 -
+2025-04-25 09:57:59,904 - INFO - 127.0.0.1 - - [25/Apr/2025 09:57:59] "POST /socket.io/?EIO=4&transport=polling&t=ajlzkbti&sid=-qmEnEksln02gBkSAAAD HTTP/1.1" 200 -
+2025-04-25 09:57:59,907 - INFO - 127.0.0.1 - - [25/Apr/2025 09:57:59] "GET /socket.io/?EIO=4&transport=polling&t=ajlzljky&sid=-qmEnEksln02gBkSAAAD HTTP/1.1" 200 -
+2025-04-25 09:57:59,912 - INFO - 127.0.0.1 - - [25/Apr/2025 09:57:59] "GET /socket.io/?EIO=4&transport=polling&t=ajm00h89&sid=Jbrl4iRCF7kj5ENoAAAC HTTP/1.1" 200 -
+2025-04-25 09:57:59,928 - INFO - 127.0.0.1 - - [25/Apr/2025 09:57:59] "GET /socket.io/?EIO=4&transport=polling&t=ajm08oze&sid=-qmEnEksln02gBkSAAAD HTTP/1.1" 200 -
+2025-04-25 09:58:08,511 - INFO - Stopped Receiving Audio
+2025-04-25 09:58:08,580 - INFO - Received audio chunk
+2025-04-25 09:58:26,859 - INFO - Predicted Emotion: Calm (Confidence: 0.99)
+2025-04-25 09:58:53,623 - INFO - Stopped Receiving Audio
+2025-04-25 09:58:53,661 - INFO - Received audio chunk
+2025-04-25 09:58:54,016 - INFO - Predicted Emotion: Calm (Confidence: 1.00)
+2025-04-25 09:59:06,224 - INFO - 127.0.0.1 - - [25/Apr/2025 09:59:06] "GET /socket.io/?EIO=4&transport=polling&t=al15vjqf HTTP/1.1" 200 -
+2025-04-25 09:59:06,259 - INFO - 127.0.0.1 - - [25/Apr/2025 09:59:06] "POST /socket.io/?EIO=4&transport=polling&t=al16iio1&sid=A8YHJOmjjd46PjMHAAAG HTTP/1.1" 200 -
+2025-04-25 09:59:06,400 - INFO - 127.0.0.1 - - [25/Apr/2025 09:59:06] "GET /socket.io/?EIO=4&transport=polling&t=al16uljs&sid=A8YHJOmjjd46PjMHAAAG HTTP/1.1" 200 -
+2025-04-25 09:59:07,323 - INFO - 127.0.0.1 - - [25/Apr/2025 09:59:07] "GET /socket.io/?EIO=4&transport=websocket&sid=-qmEnEksln02gBkSAAAD HTTP/1.1" 200 -
+2025-04-25 09:59:07,324 - INFO - 127.0.0.1 - - [25/Apr/2025 09:59:07] "GET /socket.io/?EIO=4&transport=websocket&sid=Jbrl4iRCF7kj5ENoAAAC HTTP/1.1" 200 -
+2025-04-25 09:59:07,352 - INFO - 127.0.0.1 - - [25/Apr/2025 09:59:07] "GET /socket.io/?EIO=4&transport=websocket&sid=A8YHJOmjjd46PjMHAAAG HTTP/1.1" 200 -
+2025-04-25 09:59:08,325 - INFO - 127.0.0.1 - - [25/Apr/2025 09:59:08] "GET /socket.io/?EIO=4&transport=polling&t=al2sfii0 HTTP/1.1" 200 -
+2025-04-25 09:59:08,409 - INFO - 127.0.0.1 - - [25/Apr/2025 09:59:08] "POST /socket.io/?EIO=4&transport=polling&t=al2usrm7&sid=A6Dly5zHTIgyG6yTAAAI HTTP/1.1" 200 -
+2025-04-25 09:59:08,416 - INFO - 127.0.0.1 - - [25/Apr/2025 09:59:08] "GET /socket.io/?EIO=4&transport=polling&t=al2utqhj&sid=A6Dly5zHTIgyG6yTAAAI HTTP/1.1" 200 -
+2025-04-25 09:59:08,443 - INFO - 127.0.0.1 - - [25/Apr/2025 09:59:08] "GET /socket.io/?EIO=4&transport=polling&t=al2vpb0s&sid=A6Dly5zHTIgyG6yTAAAI HTTP/1.1" 200 -
+2025-04-25 09:59:08,479 - INFO - 127.0.0.1 - - [25/Apr/2025 09:59:08] "GET /socket.io/?EIO=4&transport=polling&t=al2wld2b&sid=A6Dly5zHTIgyG6yTAAAI HTTP/1.1" 200 -
+2025-04-25 09:59:12,509 - INFO - Stopped Receiving Audio
+2025-04-25 09:59:12,548 - INFO - Received audio chunk
+2025-04-25 09:59:12,797 - INFO - Predicted Emotion: Disgust (Confidence: 1.00)
+2025-04-25 09:59:20,342 - INFO - Stopped Receiving Audio
+2025-04-25 09:59:20,377 - INFO - Received audio chunk
+2025-04-25 09:59:20,662 - INFO - Predicted Emotion: Sad (Confidence: 0.95)
+2025-04-25 09:59:51,713 - INFO - Stopped Receiving Audio
+2025-04-25 09:59:51,755 - INFO - Received audio chunk
+2025-04-25 09:59:52,107 - INFO - Predicted Emotion: Disgust (Confidence: 0.64)
+2025-04-25 10:00:46,348 - INFO - 127.0.0.1 - - [25/Apr/2025 10:00:46] "GET /socket.io/?EIO=4&transport=polling&t=an6f2n4j HTTP/1.1" 200 -
+2025-04-25 10:00:46,369 - INFO - 127.0.0.1 - - [25/Apr/2025 10:00:46] "POST /socket.io/?EIO=4&transport=polling&t=an6flcer&sid=70fGjZPqome1V45sAAAK HTTP/1.1" 200 -
+2025-04-25 10:00:46,378 - INFO - 127.0.0.1 - - [25/Apr/2025 10:00:46] "GET /socket.io/?EIO=4&transport=polling&t=an6fpvb3&sid=70fGjZPqome1V45sAAAK HTTP/1.1" 200 -
+2025-04-25 10:00:47,412 - INFO - 127.0.0.1 - - [25/Apr/2025 10:00:47] "GET /socket.io/?EIO=4&transport=websocket&sid=A6Dly5zHTIgyG6yTAAAI HTTP/1.1" 200 -
+2025-04-25 10:00:47,420 - INFO - 127.0.0.1 - - [25/Apr/2025 10:00:47] "GET /socket.io/?EIO=4&transport=websocket&sid=70fGjZPqome1V45sAAAK HTTP/1.1" 200 -
+2025-04-25 10:00:48,333 - INFO - 127.0.0.1 - - [25/Apr/2025 10:00:48] "GET /socket.io/?EIO=4&transport=polling&t=an7yf7re HTTP/1.1" 200 -
+2025-04-25 10:00:48,393 - INFO - 127.0.0.1 - - [25/Apr/2025 10:00:48] "POST /socket.io/?EIO=4&transport=polling&t=an802pa7&sid=Wimo9SPE21YBwtxwAAAM HTTP/1.1" 200 -
+2025-04-25 10:00:48,398 - INFO - 127.0.0.1 - - [25/Apr/2025 10:00:48] "GET /socket.io/?EIO=4&transport=polling&t=an80497o&sid=Wimo9SPE21YBwtxwAAAM HTTP/1.1" 200 -
+2025-04-25 10:00:48,440 - INFO - 127.0.0.1 - - [25/Apr/2025 10:00:48] "GET /socket.io/?EIO=4&transport=polling&t=an81518q&sid=Wimo9SPE21YBwtxwAAAM HTTP/1.1" 200 -
+2025-04-25 10:00:52,098 - INFO - Stopped Receiving Audio
+2025-04-25 10:00:52,142 - INFO - Received audio chunk
+2025-04-25 10:00:52,388 - INFO - Predicted Emotion: Disgust (Confidence: 1.00)
+2025-04-25 10:00:58,748 - INFO - Stopped Receiving Audio
+2025-04-25 10:00:58,795 - INFO - Received audio chunk
+2025-04-25 10:00:59,035 - INFO - Predicted Emotion: Disgust (Confidence: 0.93)
+2025-04-25 10:01:09,625 - INFO - Stopped Receiving Audio
+2025-04-25 10:01:09,669 - INFO - Received audio chunk
+2025-04-25 10:01:10,048 - INFO - Predicted Emotion: Disgust (Confidence: 0.74)
+2025-04-25 10:01:15,588 - INFO - Stopped Receiving Audio
+2025-04-25 10:01:15,626 - INFO - Received audio chunk
+2025-04-25 10:01:15,931 - INFO - Predicted Emotion: Neutral (Confidence: 1.00)
+2025-04-25 10:01:27,464 - INFO - Stopped Receiving Audio
+2025-04-25 10:01:27,496 - INFO - Received audio chunk
+2025-04-25 10:01:27,753 - INFO - Predicted Emotion: Disgust (Confidence: 1.00)
+2025-04-25 10:05:30,815 - INFO - Stopped Receiving Audio
+2025-04-25 10:05:30,889 - INFO - Received audio chunk
+2025-04-25 10:05:31,236 - INFO - Predicted Emotion: Sad (Confidence: 0.98)
+2025-04-25 10:05:41,367 - INFO - Stopped Receiving Audio
+2025-04-25 10:05:41,415 - INFO - Received audio chunk
+2025-04-25 10:05:41,696 - INFO - Predicted Emotion: Disgust (Confidence: 0.99)
+2025-04-25 10:05:51,895 - INFO - Stopped Receiving Audio
+2025-04-25 10:05:51,933 - INFO - Received audio chunk
+2025-04-25 10:05:52,148 - INFO - Predicted Emotion: Sad (Confidence: 0.96)
+2025-04-25 10:06:01,160 - INFO - Stopped Receiving Audio
+2025-04-25 10:06:01,206 - INFO - Received audio chunk
+2025-04-25 10:06:01,478 - INFO - Predicted Emotion: Disgust (Confidence: 1.00)
+2025-04-25 10:06:09,776 - INFO - Stopped Receiving Audio
+2025-04-25 10:06:09,799 - INFO - Received audio chunk
+2025-04-25 10:06:09,977 - INFO - Predicted Emotion: Disgust (Confidence: 0.97)
+2025-04-25 10:06:17,490 - INFO - Stopped Receiving Audio
+2025-04-25 10:06:17,517 - INFO - Received audio chunk
+2025-04-25 10:06:17,762 - INFO - Predicted Emotion: Surprised (Confidence: 0.91)
+2025-04-25 10:11:55,017 - INFO - Stopped Receiving Audio
+2025-04-25 10:11:55,059 - INFO - Received audio chunk
+2025-04-25 10:11:55,393 - INFO - Predicted Emotion: Disgust (Confidence: 0.69)
+2025-04-25 10:12:00,070 - INFO - Stopped Receiving Audio
+2025-04-25 10:12:00,108 - INFO - Received audio chunk
+2025-04-25 10:12:00,370 - INFO - Predicted Emotion: Disgust (Confidence: 0.98)
+2025-04-25 10:12:05,494 - INFO - Stopped Receiving Audio
+2025-04-25 10:12:05,534 - INFO - Received audio chunk
+2025-04-25 10:12:05,779 - INFO - Predicted Emotion: Surprised (Confidence: 1.00)
+2025-04-25 10:31:53,920 - INFO - 127.0.0.1 - - [25/Apr/2025 10:31:53] "GET /socket.io/?EIO=4&transport=websocket&sid=Wimo9SPE21YBwtxwAAAM HTTP/1.1" 200 -
+2025-04-25 10:31:54,252 - INFO - 127.0.0.1 - - [25/Apr/2025 10:31:54] "GET /socket.io/?EIO=4&transport=polling&t=br7p7kp1 HTTP/1.1" 200 -
+2025-04-25 10:31:54,414 - INFO - 127.0.0.1 - - [25/Apr/2025 10:31:54] "POST /socket.io/?EIO=4&transport=polling&t=br7tuwu8&sid=drR3nDV8aAffgLBqAAAO HTTP/1.1" 200 -
+2025-04-25 10:31:54,442 - INFO - 127.0.0.1 - - [25/Apr/2025 10:31:54] "GET /socket.io/?EIO=4&transport=polling&t=br7uavi1&sid=drR3nDV8aAffgLBqAAAO HTTP/1.1" 200 -
+2025-04-25 10:31:54,551 - INFO - 127.0.0.1 - - [25/Apr/2025 10:31:54] "GET /socket.io/?EIO=4&transport=polling&t=br7vtwam&sid=drR3nDV8aAffgLBqAAAO HTTP/1.1" 200 -
+2025-04-25 10:32:10,023 - INFO - Stopped Receiving Audio
+2025-04-25 10:32:10,062 - INFO - Received audio chunk
+2025-04-25 10:32:10,310 - INFO - Predicted Emotion: Disgust (Confidence: 0.99)
+2025-04-25 10:32:17,996 - INFO - Stopped Receiving Audio
+2025-04-25 10:32:18,046 - INFO - Received audio chunk
+2025-04-25 10:32:18,361 - INFO - Predicted Emotion: Angry (Confidence: 0.99)
+2025-04-25 10:32:32,313 - INFO - Stopped Receiving Audio
+2025-04-25 10:32:32,349 - INFO - Received audio chunk
+2025-04-25 10:32:32,670 - INFO - Predicted Emotion: Disgust (Confidence: 0.92)
+2025-05-20 18:40:21,848 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-05-20 18:40:21,928 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-20 18:40:21,929 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-20 18:40:21,929 - INFO -  * Restarting with stat
+2025-05-20 18:40:51,906 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-05-20 18:40:51,960 - WARNING -  * Debugger is active!
+2025-05-20 18:40:52,002 - INFO -  * Debugger PIN: 711-820-657
+2025-05-20 18:41:05,111 - INFO - 127.0.0.1 - - [20/May/2025 18:41:05] "GET /socket.io/?EIO=4&transport=polling&t=j8ln2v1s HTTP/1.1" 200 -
+2025-05-20 18:41:05,199 - INFO - 127.0.0.1 - - [20/May/2025 18:41:05] "POST /socket.io/?EIO=4&transport=polling&t=j8lpmdf7&sid=yeTKwyzI1JNYTpGDAAAA HTTP/1.1" 200 -
+2025-05-20 18:41:05,280 - INFO - 127.0.0.1 - - [20/May/2025 18:41:05] "GET /socket.io/?EIO=4&transport=polling&t=j8lpveuq&sid=yeTKwyzI1JNYTpGDAAAA HTTP/1.1" 200 -
+2025-05-20 18:41:05,535 - INFO - 127.0.0.1 - - [20/May/2025 18:41:05] "GET /socket.io/?EIO=4&transport=polling&t=j8lyz3v0&sid=yeTKwyzI1JNYTpGDAAAA HTTP/1.1" 200 -
+2025-05-20 18:41:05,584 - INFO - 127.0.0.1 - - [20/May/2025 18:41:05] "GET /socket.io/?EIO=4&transport=polling&t=j8m08aep&sid=yeTKwyzI1JNYTpGDAAAA HTTP/1.1" 200 -
+2025-05-20 18:42:33,964 - INFO - Stopped Receiving Audio
+2025-05-20 18:42:33,976 - INFO - Received audio chunk
+2025-05-20 18:43:13,554 - INFO - Stopped Receiving Audio
+2025-05-20 18:43:13,668 - INFO - Received audio chunk
+2025-05-20 18:43:25,166 - INFO - Predicted Emotion: Disgust (Confidence: 0.46)
+2025-05-20 18:43:25,172 - INFO - Predicted Emotion: Sad (Confidence: 0.97)
+2025-05-20 18:44:23,928 - INFO - Stopped Receiving Audio
+2025-05-20 18:44:23,969 - INFO - Received audio chunk
+2025-05-20 18:44:24,389 - INFO - Predicted Emotion: Surprised (Confidence: 1.00)
+2025-05-20 18:45:21,682 - INFO - Stopped Receiving Audio
+2025-05-20 18:45:21,704 - INFO - Received audio chunk
+2025-05-20 18:45:22,056 - INFO - Predicted Emotion: Disgust (Confidence: 1.00)
+2025-05-20 18:45:23,876 - INFO - 127.0.0.1 - - [20/May/2025 18:45:23] "GET /socket.io/?EIO=4&transport=websocket&sid=yeTKwyzI1JNYTpGDAAAA HTTP/1.1" 200 -
+2025-05-20 18:45:24,173 - INFO - 127.0.0.1 - - [20/May/2025 18:45:24] "GET /socket.io/?EIO=4&transport=polling&t=je5j3byl HTTP/1.1" 200 -
+2025-05-20 18:45:24,355 - INFO - 127.0.0.1 - - [20/May/2025 18:45:24] "POST /socket.io/?EIO=4&transport=polling&t=je5oco1l&sid=XtzDcjfwfOYfo0nPAAAC HTTP/1.1" 200 -
+2025-05-20 18:45:24,388 - INFO - 127.0.0.1 - - [20/May/2025 18:45:24] "GET /socket.io/?EIO=4&transport=polling&t=je5oueh8&sid=XtzDcjfwfOYfo0nPAAAC HTTP/1.1" 200 -
+2025-05-20 18:45:24,423 - INFO - 127.0.0.1 - - [20/May/2025 18:45:24] "GET /socket.io/?EIO=4&transport=polling&t=je5q5l38&sid=XtzDcjfwfOYfo0nPAAAC HTTP/1.1" 200 -
+2025-05-20 18:45:24,470 - INFO - 127.0.0.1 - - [20/May/2025 18:45:24] "GET /socket.io/?EIO=4&transport=polling&t=je5r8nif&sid=XtzDcjfwfOYfo0nPAAAC HTTP/1.1" 200 -
+2025-05-20 18:45:32,216 - INFO - Stopped Receiving Audio
+2025-05-20 18:45:32,247 - INFO - Received audio chunk
+2025-05-20 18:45:32,584 - INFO - Predicted Emotion: Surprised (Confidence: 0.94)
+2025-05-20 18:45:42,814 - INFO - Stopped Receiving Audio
+2025-05-20 18:45:42,917 - INFO - Received audio chunk
+2025-05-20 18:45:43,871 - INFO - Predicted Emotion: Surprised (Confidence: 0.98)
+2025-05-20 18:45:52,699 - INFO - Stopped Receiving Audio
+2025-05-20 18:45:52,843 - INFO - Received audio chunk
+2025-05-20 18:45:53,847 - INFO - Predicted Emotion: Neutral (Confidence: 0.75)
+2025-05-20 18:58:16,542 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-05-20 18:58:16,608 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-20 18:58:16,608 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-20 18:58:16,609 - INFO -  * Restarting with stat
+2025-05-20 18:58:30,016 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-05-20 18:58:30,047 - WARNING -  * Debugger is active!
+2025-05-20 18:58:30,066 - INFO -  * Debugger PIN: 711-820-657
+2025-05-20 18:58:31,644 - INFO - 127.0.0.1 - - [20/May/2025 18:58:31] "GET /socket.io/?EIO=4&transport=polling&t=jv15dtc8 HTTP/1.1" 200 -
+2025-05-20 18:58:31,742 - INFO - 127.0.0.1 - - [20/May/2025 18:58:31] "POST /socket.io/?EIO=4&transport=polling&t=jv182fbl&sid=i9MXIkNtwe2N6fCfAAAA HTTP/1.1" 200 -
+2025-05-20 18:58:31,755 - INFO - 127.0.0.1 - - [20/May/2025 18:58:31] "GET /socket.io/?EIO=4&transport=polling&t=jv1848my&sid=i9MXIkNtwe2N6fCfAAAA HTTP/1.1" 200 -
+2025-05-20 18:58:31,936 - INFO - 127.0.0.1 - - [20/May/2025 18:58:31] "GET /socket.io/?EIO=4&transport=polling&t=jv1dohcq&sid=i9MXIkNtwe2N6fCfAAAA HTTP/1.1" 200 -
+2025-05-20 18:58:31,971 - INFO - 127.0.0.1 - - [20/May/2025 18:58:31] "GET /socket.io/?EIO=4&transport=polling&t=jv1ejqir&sid=i9MXIkNtwe2N6fCfAAAA HTTP/1.1" 200 -
+2025-05-20 18:59:03,603 - INFO - Stopped Receiving Audio
+2025-05-20 18:59:03,660 - INFO - Received audio chunk
+2025-05-20 18:59:23,275 - INFO - 127.0.0.1 - - [20/May/2025 18:59:23] "GET /socket.io/?EIO=4&transport=websocket&sid=i9MXIkNtwe2N6fCfAAAA HTTP/1.1" 200 -
+2025-05-20 18:59:23,425 - INFO - 127.0.0.1 - - [20/May/2025 18:59:23] "GET /socket.io/?EIO=4&transport=polling&t=jw53omzv HTTP/1.1" 200 -
+2025-05-20 18:59:23,551 - INFO - 127.0.0.1 - - [20/May/2025 18:59:23] "POST /socket.io/?EIO=4&transport=polling&t=jw57440o&sid=eQ2GgScWCnAR4o2VAAAC HTTP/1.1" 200 -
+2025-05-20 18:59:23,574 - INFO - 127.0.0.1 - - [20/May/2025 18:59:23] "GET /socket.io/?EIO=4&transport=polling&t=jw577agq&sid=eQ2GgScWCnAR4o2VAAAC HTTP/1.1" 200 -
+2025-05-20 18:59:23,619 - INFO - 127.0.0.1 - - [20/May/2025 18:59:23] "GET /socket.io/?EIO=4&transport=polling&t=jw58kb2f&sid=eQ2GgScWCnAR4o2VAAAC HTTP/1.1" 200 -
+2025-05-20 18:59:24,769 - INFO - Predicted Emotion: Disgust (Confidence: 0.90)
+2025-05-20 18:59:55,578 - INFO - Stopped Receiving Audio
+2025-05-20 18:59:55,631 - INFO - Received audio chunk
+2025-05-20 18:59:56,535 - INFO - Predicted Emotion: Disgust (Confidence: 0.49)
+2025-05-20 19:00:06,386 - INFO - Stopped Receiving Audio
+2025-05-20 19:00:06,475 - INFO - Received audio chunk
+2025-05-20 19:00:07,062 - INFO - Predicted Emotion: Surprised (Confidence: 0.67)
